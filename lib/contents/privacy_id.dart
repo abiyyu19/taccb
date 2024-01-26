@@ -1,9 +1,9 @@
 String privasi = '''
 # **Informasi Umum**
 
-&nbsp;&nbsp;&nbsp;&nbsp; User disarankan untuk membaca serta memahami Kebijakan Privasi ini dengan seksama untuk memahami bagaimana Collarbear menggunakan Data Pribadi Anda. Perlu dicatat bahwa Collarbear. menghargai perlindungan Data Pribadi Anda. Kebijakan Privasi ini menjelaskan prosedur pengumpulan, penggunaan, atau pengungkapan data pribadi termasuk hak-hak lain dari kepemilikan Data Pribadi Anda. Dengan mengakses atau menggunakan www.collarbear.com, aplikasi seluler Collarbear baik yang berbasis Android maupun iOS, atau situs, aplikasi, layanan, dan barang/muatan terkait lainnya, atau situs web lain apapun yang dioperasikan oleh Collarbear yang tertaut ke kebijakan ini,
+&nbsp;&nbsp;&nbsp;&nbsp; User disarankan untuk membaca serta memahami Kebijakan Privasi ini dengan seksama untuk memahami bagaimana Clickjob menggunakan Data Pribadi Anda. Perlu dicatat bahwa Clickjob. menghargai perlindungan Data Pribadi Anda. Kebijakan Privasi ini menjelaskan prosedur pengumpulan, penggunaan, atau pengungkapan data pribadi termasuk hak-hak lain dari kepemilikan Data Pribadi Anda. Dengan mengakses atau menggunakan www.clickjob.com, aplikasi seluler Clickjob baik yang berbasis Android maupun iOS, atau situs, aplikasi, layanan, dan barang/muatan terkait lainnya, atau situs web lain apapun yang dioperasikan oleh Clickjob yang tertaut ke kebijakan ini,
 
-&nbsp;&nbsp;&nbsp;&nbsp; Kebijakan ini dapat berubah dari waktu ke waktu; kami juga akan mengambil langkah lain, sejauh yang diwajibkan oleh hukum/undang-undang setempat yang berlaku. Dengan menggunakan layanan Collarbear, Anda mengakui bahwa Anda telah membaca, memahami, dan menyetujui Kebijakan Privasi ini. Kami menyarankan Anda untuk memeriksa Kebijakan Privasi secara berkala untuk mengetahui setiap pembaruan atau perubahan.
+&nbsp;&nbsp;&nbsp;&nbsp; Kebijakan ini dapat berubah dari waktu ke waktu; kami juga akan mengambil langkah lain, sejauh yang diwajibkan oleh hukum/undang-undang setempat yang berlaku. Dengan menggunakan layanan Clickjob, Anda mengakui bahwa Anda telah membaca, memahami, dan menyetujui Kebijakan Privasi ini. Kami menyarankan Anda untuk memeriksa Kebijakan Privasi secara berkala untuk mengetahui setiap pembaruan atau perubahan.
 
 # **Jenis Pengumpulan Data Pribadi**
 
@@ -27,15 +27,15 @@ String privasi = '''
 
 # **Pengumpulan & Penyimpanan Data Pribadi**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Collarbear akan mengumpulkan dan menyimpan Data Pribadi Anda dalam bentuk elektronik oleh pemasok pihak ketiga dan pemroses data yang mungkin berlokasi di yurisdiksi lain—di mana hukum/undang-undang lokal yang berlaku mungkin berbeda dengan yurisdiksi tempat Anda tinggal. Kami akan mengambil semua langkah yang diperlukan secara wajar untuk memastikan bahwa Data Pribadi Anda diperlakukan dengan aman dan sesuai dengan Kebijakan ini.
+&nbsp;&nbsp;&nbsp;&nbsp; Clickjob akan mengumpulkan dan menyimpan Data Pribadi Anda dalam bentuk elektronik oleh pemasok pihak ketiga dan pemroses data yang mungkin berlokasi di yurisdiksi lain—di mana hukum/undang-undang lokal yang berlaku mungkin berbeda dengan yurisdiksi tempat Anda tinggal. Kami akan mengambil semua langkah yang diperlukan secara wajar untuk memastikan bahwa Data Pribadi Anda diperlakukan dengan aman dan sesuai dengan Kebijakan ini.
 
 ### **Data yang Anda Berikan**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Saat Anda mendaftar ke Collarbear, menggunakannya, mengisi formulir seperti meminta Anda untuk memberikan informasi pribadi tertentu, termasuk alamat surel yang valid, detail _login_, dan nama pengguna. Kami juga akan meminta Anda untuk memberikan atau mengumpulkan informasi tambahan, seperti nama Anda, detail profil, alamat fisik atau informasi penagihan, nomor telepon atau detail kontak lainnya, informasi transaksional, informasi pembayaran (misalnya, dalam kasus tertentu kami memproses metode pembayaran dan nomor kartu kredit), informasi dan formulir wajib pajak, perincian tentang akun terkait jejaring sosial lainnya, perincian tentang PAW, pendidikan, profesi dan keahlian yang Anda buat/daftarkan/tuliskan, informasi dan fail yang diunggah oleh Anda ke Collarbear, dan informasi otentikasi tambahan (seperti salinan tanda pengenal, paspor, atau SIM Anda yang diterbitkan pemerintah—sebagaimana diizinkan oleh undang-undang yang berlaku dan sebagaimana dijelaskan di Syarat & Ketentuan Layanan kami. Kami juga mengumpulkan informasi tentang atau yang terkandung dalam interaksi Anda dengan Collarbear serta setiap postingan Anda di blog atau forum kami dan interaksi Anda dengan user Collarbear lainnya.
+&nbsp;&nbsp;&nbsp;&nbsp; Saat Anda mendaftar ke Clickjob, menggunakannya, mengisi formulir seperti meminta Anda untuk memberikan informasi pribadi tertentu, termasuk alamat surel yang valid, detail _login_, dan nama pengguna. Kami juga akan meminta Anda untuk memberikan atau mengumpulkan informasi tambahan, seperti nama Anda, detail profil, alamat fisik atau informasi penagihan, nomor telepon atau detail kontak lainnya, informasi transaksional, informasi pembayaran (misalnya, dalam kasus tertentu kami memproses metode pembayaran dan nomor kartu kredit), informasi dan formulir wajib pajak, perincian tentang akun terkait jejaring sosial lainnya, perincian tentang PAW, pendidikan, profesi dan keahlian yang Anda buat/daftarkan/tuliskan, informasi dan fail yang diunggah oleh Anda ke Clickjob, dan informasi otentikasi tambahan (seperti salinan tanda pengenal, paspor, atau SIM Anda yang diterbitkan pemerintah—sebagaimana diizinkan oleh undang-undang yang berlaku dan sebagaimana dijelaskan di Syarat & Ketentuan Layanan kami. Kami juga mengumpulkan informasi tentang atau yang terkandung dalam interaksi Anda dengan Clickjob serta setiap postingan Anda di blog atau forum kami dan interaksi Anda dengan user Clickjob lainnya.
 
 ### **Data yang Kami Kumpulkan secara Otomatis**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Kami mengumpulkan data saat Anda mengakses, menelusuri, melihat, dan/atau menggunakan Collarbear. Dengan kata lain, saat Anda mengakses Collarbear, kami mengumpulkan data pribadi tentang penggunaan Anda terhadap Collarbear, termasuk transaksi dan interaksi dengan User lain melalui, pencarian Anda, halaman yang Anda kunjungi, serta tindakan lain di Collarbear. Kami juga mengumpulkan, menggunakan, dan memproses informasi yang berkaitan dengan penggunaan tersebut, termasuk informasi geo-lokasi, alamat IP, informasi perangkat dan koneksi, informasi peramban dan informasi log web, serta _url_ halaman web yang telah Anda lihat atau buka dengan sebelum atau sesudah menggunakan Collarbear. Kami juga mengumpulkan dan memproses informasi yang berkaitan dengan penggunaan kuki dan teknologi serupa. Kami menggunakan informasi tersebut untuk memberi Anda layanan kami, meningkatkan pengalaman Anda, mempersonalisasi pengalaman penelusuran Anda, serta memantau Collarbear untuk mencegah penipuan dan konten/perilaku yang melanggar Syarat & Ketentuan Layanan.
+&nbsp;&nbsp;&nbsp;&nbsp; Kami mengumpulkan data saat Anda mengakses, menelusuri, melihat, dan/atau menggunakan Clickjob. Dengan kata lain, saat Anda mengakses Clickjob, kami mengumpulkan data pribadi tentang penggunaan Anda terhadap Clickjob, termasuk transaksi dan interaksi dengan User lain melalui, pencarian Anda, halaman yang Anda kunjungi, serta tindakan lain di Clickjob. Kami juga mengumpulkan, menggunakan, dan memproses informasi yang berkaitan dengan penggunaan tersebut, termasuk informasi geo-lokasi, alamat IP, informasi perangkat dan koneksi, informasi peramban dan informasi log web, serta _url_ halaman web yang telah Anda lihat atau buka dengan sebelum atau sesudah menggunakan Clickjob. Kami juga mengumpulkan dan memproses informasi yang berkaitan dengan penggunaan kuki dan teknologi serupa. Kami menggunakan informasi tersebut untuk memberi Anda layanan kami, meningkatkan pengalaman Anda, mempersonalisasi pengalaman penelusuran Anda, serta memantau Clickjob untuk mencegah penipuan dan konten/perilaku yang melanggar Syarat & Ketentuan Layanan.
 
 ### **Data yang Kami Terima dari Pihak Ketiga**
 
@@ -43,25 +43,25 @@ String privasi = '''
 
 &nbsp;&nbsp;&nbsp;&nbsp; Vendor pihak ketiga yang memberikan kami data untuk melengkapi data yang kami kumpulkan tentang Anda, sesuai dengan undang-undang yang berlaku. Jika Anda menautkan, menghubungkan, atau masuk ke akun Anda melalui layanan pihak ketiga (mis. Google, Facebook, LinkedIn), kami menerima informasi tertentu, seperti pendaftaran dan data profil Anda dari layanan tersebut. Informasi ini bervariasi dan dikendalikan oleh layanan tersebut atau sebagaimana diizinkan oleh Anda melalui pengaturan privasi Anda di layanan tersebut. Jika Anda mengintegrasikan informasi akun Anda dari pihak ketiga atau mengintegrasikan akun Anda dengan sistem, sarana, atau produk pihak ketiga, kami akan menerima data tertentu tentang Anda sesuai dengan izin Anda di pihak ketiga tersebut.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Kami juga menerima informasi tertentu tentang Anda, jika Anda diundang ke Collarbear oleh User lain (misalnya, sebagai bagian dari alat kolaborasi dan program _referral_ kami), dalam hal demikian kami akan menerima informasi terbatas, seperti alamat surel Anda atau informasi kontak lainnya, dan kami akan menggunakannya untuk tujuan yang sama seperti yang diberikan dan sesuai dengan ketentuan Kebijakan Privasi ini.
+&nbsp;&nbsp;&nbsp;&nbsp; Kami juga menerima informasi tertentu tentang Anda, jika Anda diundang ke Clickjob oleh User lain (misalnya, sebagai bagian dari alat kolaborasi dan program _referral_ kami), dalam hal demikian kami akan menerima informasi terbatas, seperti alamat surel Anda atau informasi kontak lainnya, dan kami akan menggunakannya untuk tujuan yang sama seperti yang diberikan dan sesuai dengan ketentuan Kebijakan Privasi ini.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Kami menggabungkan informasi pribadi Anda dengan informasi yang kami kumpulkan secara otomatis atau diperoleh dari perusahaan lain dan menggunakannya untuk tujuan yang dirinci dalam Kebijakan ini.
 
 # **Pemrosesan Data Pribadi**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Dengan Anda memutuskan untuk membuat akun di Collarbear, maka Anda telah memahami dan menyetujui bahwa Collarbear akan menggunakan informasi pribadi Anda dengan dasar kontrak untuk tujuan sebagai berikut:
+&nbsp;&nbsp;&nbsp;&nbsp; Dengan Anda memutuskan untuk membuat akun di Clickjob, maka Anda telah memahami dan menyetujui bahwa Clickjob akan menggunakan informasi pribadi Anda dengan dasar kontrak untuk tujuan sebagai berikut:
 
 1. Memberikan Anda layanan dan keamanan yang berkualitas;
 
-2. Melakukan kewajiban kami kepada Anda yaitu dengan mengoperasikan Collarbear—memberikan produk dan layanan dengan standar & level tertinggi;
+2. Melakukan kewajiban kami kepada Anda yaitu dengan mengoperasikan Clickjob—memberikan produk dan layanan dengan standar & level tertinggi;
 
 3. Menyesuaikan dan mempersonalisasi layanan kami dan meningkatkan pengalaman Anda (termasuk dengan membuat sugesti terkait PAW, memberi peringkat pada hasil pencarian, dll.);
 
-4. Memastikan integritas platform, mencegah penipuan, dan memelihara platform dan layanan yang aman dan terlindungi. Kami melakukan analitik perilaku tertentu untuk mencapai tujuan yang disebutkan dan dalam kasus tertentu, jika kami mendeteksi aktivitas yang menurut kami menimbulkan risiko bagi pasar dalam Collarbear, User lain, komunitas kami, atau pihak ketiga, proses (yang berjalan) otomatis dapat memperketat atau membatasi kemampuan Anda untuk menggunakan Collarbear. Jika Anda ingin menentang keputusan tersebut, silakan hubungi kami di <support@collarbear.com>;
+4. Memastikan integritas platform, mencegah penipuan, dan memelihara platform dan layanan yang aman dan terlindungi. Kami melakukan analitik perilaku tertentu untuk mencapai tujuan yang disebutkan dan dalam kasus tertentu, jika kami mendeteksi aktivitas yang menurut kami menimbulkan risiko bagi pasar dalam Clickjob, User lain, komunitas kami, atau pihak ketiga, proses (yang berjalan) otomatis dapat memperketat atau membatasi kemampuan Anda untuk menggunakan Clickjob. Jika Anda ingin menentang keputusan tersebut, silakan hubungi kami di <support@clickjob.com>;
 
 5. Menghubungi Anda, sebagaimana yang diminta oleh Anda atau sebagaimana yang disetujui oleh Anda atau diizinkan menurut Kebijakan ini;
 
-6. Mempromosikan dan mengiklankan Collarbear, layanan kami, dan pasar dalam Collarbear—secara anonim; dan
+6. Mempromosikan dan mengiklankan Clickjob, layanan kami, dan pasar dalam Clickjob—secara anonim; dan
 
 7. Memelihara catatan bisnis yang sesuai, mematuhi permintaan yang sah dari otoritas publik dan mematuhi undang-undang dan peraturan yang berlaku atau sebagaimana yang diwajibkan oleh undang-undang.
 
@@ -69,7 +69,7 @@ String privasi = '''
 
 &nbsp;&nbsp;&nbsp;&nbsp; Selain itu, Anda berhak memberikan persetujuan atau tidak untuk tujuan sebagai berikut:
 
-1. Menghubungi Anda dengan tujuan melakukan pemasaran langsung tentang produk, layanan, atau promosi kami sebagai Collarbear yang mungkin menarik bagi Anda—dengan cara yang dapat diidentifikasi; dan
+1. Menghubungi Anda dengan tujuan melakukan pemasaran langsung tentang produk, layanan, atau promosi kami sebagai Clickjob yang mungkin menarik bagi Anda—dengan cara yang dapat diidentifikasi; dan
 
 2. Pemrosesan kami atas Data Pribadi Anda untuk tujuan pemasaran yang didasarkan pada kepentingan sah kami, atau atas persetujuan Anda, atau sebagaimana diizinkan menurut undang-undang yang berlaku. Anda memiliki hak untuk mencegah pemasaran langsung dalam bentuk apa pun kapan saja - ini dapat dilakukan dengan mengikuti tautan keluar yang terlampir pada setiap penawaran (yang kami kirimkan).
 
@@ -79,9 +79,9 @@ String privasi = '''
 
 &nbsp;&nbsp;&nbsp;&nbsp; Kami tidak menjual atau menyewakan Data Pribadi Anda kepada pihak ketiga untuk tujuan pemasaran mereka tanpa persetujuan tegas dari Anda. Namun, kami dapat mengungkapkan Data Pribadi Anda kepada pihak ketiga berdasarkan persetujuan Anda atau diizinkan oleh undang-undang sebagai berikut.
 
-1. Manajemen dalam Collarbear
+1. Manajemen dalam Clickjob
 
-&nbsp;&nbsp;&nbsp;&nbsp; Kami dapat mengungkapkan Data Pribadi Anda dalam internal Collarbear sebagaimana yang diperlukan untuk meningkatkan atau mengembangkan produk atau layanan kami. Kami dapat mengumpulkan data dalam produk atau layanan berdasarkan Kebijakan ini baik untuk keuntungan Anda maupun orang lain.
+&nbsp;&nbsp;&nbsp;&nbsp; Kami dapat mengungkapkan Data Pribadi Anda dalam internal Clickjob sebagaimana yang diperlukan untuk meningkatkan atau mengembangkan produk atau layanan kami. Kami dapat mengumpulkan data dalam produk atau layanan berdasarkan Kebijakan ini baik untuk keuntungan Anda maupun orang lain.
 
 2. Penyedia Jasa
 
@@ -93,19 +93,19 @@ String privasi = '''
 
 4. Transfer Bisnis
 
-&nbsp;&nbsp;&nbsp;&nbsp; Kami dapat mengungkapkan data termasuk Data Pribadi Anda jika kami mengalami transisi bisnis seperti restrukturisasi organisasi, merger, penjualan, pengalihan semua atau sebagian aset Collarbear, akuisisi, kebangkrutan, atau peristiwa serupa, atau transfer aset lainnya. Jika kami menjual bisnis atau aset apa pun, kami akan mengungkapkan Data Pribadi Anda kepada calon pembeli. Jika kami atau sebagian besar aset kami diakuisisi oleh pihak ketiga, maka Data Pribadi yang kami miliki tentang User kami akan menjadi salah satu aset yang dialihkan.
+&nbsp;&nbsp;&nbsp;&nbsp; Kami dapat mengungkapkan data termasuk Data Pribadi Anda jika kami mengalami transisi bisnis seperti restrukturisasi organisasi, merger, penjualan, pengalihan semua atau sebagian aset Clickjob, akuisisi, kebangkrutan, atau peristiwa serupa, atau transfer aset lainnya. Jika kami menjual bisnis atau aset apa pun, kami akan mengungkapkan Data Pribadi Anda kepada calon pembeli. Jika kami atau sebagian besar aset kami diakuisisi oleh pihak ketiga, maka Data Pribadi yang kami miliki tentang User kami akan menjadi salah satu aset yang dialihkan.
 
 5. Penegakan Hukum
 
-&nbsp;&nbsp;&nbsp;&nbsp; Collarbear selalu patuh dan tunduk pada payung hukum setempat yang menaungi di mana pun User kami berada. ****Jika undang-undang atau pemerintah setempat mengharuskan, Kami akan mengungkapkan Data Pribadi Anda sebagaimana diperlukan kepada lembaga penegak hukum, otoritas publik, organisasi pemerintah yang berkepentingan, atau pihak lain untuk menanggapi panggilan pengadilan atau perintah pengadilan, proses peradilan, atau otoritas pengatur, jika kami yakin bahwa kami diharuskan melakukannya oleh hukum.
+&nbsp;&nbsp;&nbsp;&nbsp; Clickjob selalu patuh dan tunduk pada payung hukum setempat yang menaungi di mana pun User kami berada. ****Jika undang-undang atau pemerintah setempat mengharuskan, Kami akan mengungkapkan Data Pribadi Anda sebagaimana diperlukan kepada lembaga penegak hukum, otoritas publik, organisasi pemerintah yang berkepentingan, atau pihak lain untuk menanggapi panggilan pengadilan atau perintah pengadilan, proses peradilan, atau otoritas pengatur, jika kami yakin bahwa kami diharuskan melakukannya oleh hukum.
 
 6. User yang Berinteraksi dengan Anda
 
-&nbsp;&nbsp;&nbsp;&nbsp; Kami membagikan Data Pribadi untuk membantu memfasilitasi interaksi antar User. Cakupan pembagian informasi tersebut dibatasi, dan hanya dimaksudkan untuk meningkatkan layanan yang disediakan oleh Collarbear dan pengalaman pengguna Anda.
+&nbsp;&nbsp;&nbsp;&nbsp; Kami membagikan Data Pribadi untuk membantu memfasilitasi interaksi antar User. Cakupan pembagian informasi tersebut dibatasi, dan hanya dimaksudkan untuk meningkatkan layanan yang disediakan oleh Clickjob dan pengalaman pengguna Anda.
 
 7. Afiliasi Perusahaan Kami
 
-&nbsp;&nbsp;&nbsp;&nbsp; Kami berbagi informasi dengan afiliasi perusahaan Collarbear yang terkait dengan kendali bersama untuk tujuan mengoperasikan Collarbear, menyediakan produk dan layanan kami kepada Anda dan untuk tujuan lain yang tercantum di Kebijakan ini.
+&nbsp;&nbsp;&nbsp;&nbsp; Kami berbagi informasi dengan afiliasi perusahaan Clickjob yang terkait dengan kendali bersama untuk tujuan mengoperasikan Clickjob, menyediakan produk dan layanan kami kepada Anda dan untuk tujuan lain yang tercantum di Kebijakan ini.
 
 8. Transfer Internasional
 
@@ -161,7 +161,7 @@ String privasi = '''
 
 &nbsp;&nbsp;&nbsp;&nbsp; Selama 12 (dua belas) bulan terakhir kami telah mengumpulkan kategori Data Pribadi berikut dari User:
 
-1. Data Pribadi yang Anda pilih untuk diunggah atau Anda berikan kepada Collarbear, dapat mencakup antara lain:
+1. Data Pribadi yang Anda pilih untuk diunggah atau Anda berikan kepada Clickjob, dapat mencakup antara lain:
 
     a. (Tanda) pengenal dan data pribadi, seperti nama, alamat pos, (tanda) pengenal daring, alamat surel, nomor paspor atau nomor SIM, nomor jaminan sosial;
 
@@ -173,9 +173,9 @@ String privasi = '''
 
     e. Informasi komersial; dan
 
-    f. Audio atau informasi sensorik lainnya, misalnya jika Anda menyediakan layanan berbasis audio di Collarbear.
+    f. Audio atau informasi sensorik lainnya, misalnya jika Anda menyediakan layanan berbasis audio di Clickjob.
 
-2. Informasi yang kami kumpulkan saat Anda menggunakan Collarbear, termasuk:
+2. Informasi yang kami kumpulkan saat Anda menggunakan Clickjob, termasuk:
 
     a. (Tanda) pengenal dan data pribadi, seperti (tanda) pengenal daring, alamat protokol internet (IP), perangkat akses dan informasi koneksi seperti jenis peramban, versi, pengaturan zona waktu, dan jenis dan versi _plug-in_ peramban;
 
@@ -185,7 +185,7 @@ String privasi = '''
 
     d. Informasi lokasi.
 
-3. Informasi yang kami kumpulkan atau terima dari pihak ketiga, seperti penyedia layanan, pengiklan, dan akun pihak ketiga yang Anda tautkan dengan Collarbear, termasuk:
+3. Informasi yang kami kumpulkan atau terima dari pihak ketiga, seperti penyedia layanan, pengiklan, dan akun pihak ketiga yang Anda tautkan dengan Clickjob, termasuk:
 
     a. (Tanda) pengenal dan data pribadi, seperti nama, (tanda) pengenal daring, alamat surel, alamat IP, perangkat akses dan informasi koneksi seperti jenis peramban, versi, pengaturan zona waktu, dan jenis dan versi _plug-in_ peramban;
 
@@ -231,7 +231,7 @@ String privasi = '''
 
     c. Memberikan dokumentasi atau bukti lain yang menunjukkan bahwa mereka berwenang untuk bertindak atas nama Anda. Kami juga dapat meminta Anda untuk memverifikasi identitas Anda secara langsung kepada kami, dan mengkonfirmasi secara langsung kepada kami bahwa Anda memberikan izin kepada agen resmi untuk mengajukan permintaan.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Untuk membuat permintaan seperti itu, dengan hormat kami meminta Anda untuk menghubungi tim kami melalui <support@collarbear.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Untuk membuat permintaan seperti itu, dengan hormat kami meminta Anda untuk menghubungi tim kami melalui <support@clickjob.com>.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Kami akan memverifikasi permintaan Anda menggunakan informasi yang terkait dengan akun Anda, termasuk alamat surel. Identifikasi pemerintah juga mungkin diperlukan.
 
@@ -251,7 +251,7 @@ String privasi = '''
 
 1. Dasar Kontrak
 
-&nbsp;&nbsp;&nbsp;&nbsp; Penarikan persetujuan berarti pemutusan kontrak, seperti pemutusan akun Buyer atau akun Freelancer. Hal ini dapat dilakukan dengan menghubungi Pusat Bantuan atau <support@collarbear.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Penarikan persetujuan berarti pemutusan kontrak, seperti pemutusan akun Buyer atau akun Freelancer. Hal ini dapat dilakukan dengan menghubungi Pusat Bantuan atau <support@clickjob.com>.
 
 2. Dasar Persetujuan
 
@@ -259,7 +259,7 @@ String privasi = '''
 
 ### **Hak untuk Mengakses**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Anda memiliki hak untuk meminta akses ke Data Pribadi Anda dalam tanggung jawab kami dengan mengakses akun Anda melalui situs Collarbear.
+&nbsp;&nbsp;&nbsp;&nbsp; Anda memiliki hak untuk meminta akses ke Data Pribadi Anda dalam tanggung jawab kami dengan mengakses akun Anda melalui situs Clickjob.
 
 ### **Hak untuk Menghapus/Menghancurkan**
 
@@ -267,7 +267,7 @@ String privasi = '''
 
 ### **Hak untuk Perbaikan**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Anda memiliki hak untuk meminta agar Data Pribadi Anda dikoreksi, dibuat terkini/termutakhir, dilengkapi, dan tidak menyesatkan dengan mengakses akun Anda melalui situs Collarbear.
+&nbsp;&nbsp;&nbsp;&nbsp; Anda memiliki hak untuk meminta agar Data Pribadi Anda dikoreksi, dibuat terkini/termutakhir, dilengkapi, dan tidak menyesatkan dengan mengakses akun Anda melalui situs Clickjob.
 
 ### **Hak untuk Mengajukan Keluhan**
 
@@ -277,17 +277,17 @@ String privasi = '''
 
 # **Di Bawah Umur (Minor)**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Collarbear ditawarkan dan tersedia bagi orang yang berusia minimal 17 (tujuh belas) tahun dan/atau yang telah dianggap sah secara hukum untuk membentuk kontrak yang mengikat. Anak di bawah umur 17 (tujuh belas) tahun dan setidaknya 13 (tiga belas) tahun, hanya diizinkan untuk menggunakan Collarbear melalui akun yang dimiliki oleh orang tua atau wali yang sah dengan izin yang tepat dan sesuai. Anak di bawah 13 (tiga belas) tahun tidak diizinkan menggunakan layanan Collarbear. Kami tidak dengan sengaja mengumpulkan informasi pribadi dari anak-anak di bawah 13 (tiga belas) tahun, sehingga orang tua dan wali harus selalu mengawasi aktivitas anak-anak mereka.
+&nbsp;&nbsp;&nbsp;&nbsp; Clickjob ditawarkan dan tersedia bagi orang yang berusia minimal 17 (tujuh belas) tahun dan/atau yang telah dianggap sah secara hukum untuk membentuk kontrak yang mengikat. Anak di bawah umur 17 (tujuh belas) tahun dan setidaknya 13 (tiga belas) tahun, hanya diizinkan untuk menggunakan Clickjob melalui akun yang dimiliki oleh orang tua atau wali yang sah dengan izin yang tepat dan sesuai. Anak di bawah 13 (tiga belas) tahun tidak diizinkan menggunakan layanan Clickjob. Kami tidak dengan sengaja mengumpulkan informasi pribadi dari anak-anak di bawah 13 (tiga belas) tahun, sehingga orang tua dan wali harus selalu mengawasi aktivitas anak-anak mereka.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Kami dapat mengumpulkan, menggunakan, atau mengungkapkan Data Pribadi Anda dengan persetujuan dari orang tua atau wali Anda yang sah atau dengan tindakan lain jika diwajibkan oleh hukum.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Jika kami mengetahui bahwa kami telah mengumpulkan atau menerima Data Pribadi dari seorang anak di bawah umur 17 (tujuh belas) tahun tanpa persetujuan dari orang tua atau wali Anda yang sah dan/atau anak di bawah 13 (tiga belas) tahun, kami akan menghapus Data Pribadi tersebut. Jika Anda yakin kami mungkin memiliki informasi apa pun dari atau tentang anak di bawah 13 (tiga belas) tahun dan/atau anak di bawah umur 17 (tujuh belas) tahun tanpa izin, silakan hubungi kami di <support@collarbear.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Jika kami mengetahui bahwa kami telah mengumpulkan atau menerima Data Pribadi dari seorang anak di bawah umur 17 (tujuh belas) tahun tanpa persetujuan dari orang tua atau wali Anda yang sah dan/atau anak di bawah 13 (tiga belas) tahun, kami akan menghapus Data Pribadi tersebut. Jika Anda yakin kami mungkin memiliki informasi apa pun dari atau tentang anak di bawah 13 (tiga belas) tahun dan/atau anak di bawah umur 17 (tujuh belas) tahun tanpa izin, silakan hubungi kami di <support@clickjob.com>.
 
 # **Kuki**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Kami menggunakan kuki dan teknologi serupa untuk meningkatkan dan mempersonalisasi pengalaman pengguna Anda agar lebih memuaskan dan efisien, meningkatkan akses Anda ke produk atau layanan kami, menganalisis kinerja Collarbear, memberikan iklan yang sesuai, melacak penggunaan Anda, dan untuk tujuan pemasaran.
+&nbsp;&nbsp;&nbsp;&nbsp; Kami menggunakan kuki dan teknologi serupa untuk meningkatkan dan mempersonalisasi pengalaman pengguna Anda agar lebih memuaskan dan efisien, meningkatkan akses Anda ke produk atau layanan kami, menganalisis kinerja Clickjob, memberikan iklan yang sesuai, melacak penggunaan Anda, dan untuk tujuan pemasaran.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Untuk mempelajari lebih lanjut tentang bagaimana kami dan penyedia layanan pihak ketiga kami menggunakan kuki dan bagaimana kendali Anda atas kuki ini, silakan baca dan pahami Kebijakan Kuki kami. Jika Anda tidak ingin menerima kuki, Anda dapat mengatur gawai Anda untuk menolak kuki sebelum memasuki/menggunakan Collarbear.
+&nbsp;&nbsp;&nbsp;&nbsp; Untuk mempelajari lebih lanjut tentang bagaimana kami dan penyedia layanan pihak ketiga kami menggunakan kuki dan bagaimana kendali Anda atas kuki ini, silakan baca dan pahami Kebijakan Kuki kami. Jika Anda tidak ingin menerima kuki, Anda dapat mengatur gawai Anda untuk menolak kuki sebelum memasuki/menggunakan Clickjob.
 
 # **Keamanan Data Pribadi**
 
@@ -295,9 +295,9 @@ String privasi = '''
 
 # **Tautan Eksternal**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Harap diingat dan diperhatikan bahwa konten dalam Collarbear memiliki kemungkinan berisi tautan ke situs/aplikasi pihak ketiga. Jika Anda menavigasi ke situs/aplikasi pihak ketiga di luar Collarbear, data apa pun yang Anda berikan ke situs itu dan penggunaan data apa pun oleh pihak ketiga yang bersangkutan tidak berada dibawah kendali Collarbear dan tidak tunduk pada Kebijakan ini. Anda harus memahami kebijakan privasi dari setiap situs/aplikasi yang Anda kunjungi. Kebijakan ini hanya berlaku untuk Data Pribadi yang dikumpulkan oleh Collarbear.
+&nbsp;&nbsp;&nbsp;&nbsp; Harap diingat dan diperhatikan bahwa konten dalam Clickjob memiliki kemungkinan berisi tautan ke situs/aplikasi pihak ketiga. Jika Anda menavigasi ke situs/aplikasi pihak ketiga di luar Clickjob, data apa pun yang Anda berikan ke situs itu dan penggunaan data apa pun oleh pihak ketiga yang bersangkutan tidak berada dibawah kendali Clickjob dan tidak tunduk pada Kebijakan ini. Anda harus memahami kebijakan privasi dari setiap situs/aplikasi yang Anda kunjungi. Kebijakan ini hanya berlaku untuk Data Pribadi yang dikumpulkan oleh Clickjob.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Jika Anda mengunggah konten, termasuk informasi pribadi, ke suatu situs/aplikasi (mis. jejaring sosial) dan kemudian menandai Collarbear, kiriman/unggahan Anda akan tunduk pada ketentuan penggunaan dan kebijakan privasi situs/aplikasi tersebut, bahkan saat Anda memposting di halaman resmi Collarbear di jejaring sosial. Kami tidak memiliki kendali atas ketentuan penggunaan dan kebijakan privasi di luar dari Kebijakan Privasi yang diterbitkan untuk mencakup ruang lingkup Collarbear. Oleh karena itu, Anda harus meninjau hal ini sebelum mengirimkan informasi pribadi apa pun.
+&nbsp;&nbsp;&nbsp;&nbsp; Jika Anda mengunggah konten, termasuk informasi pribadi, ke suatu situs/aplikasi (mis. jejaring sosial) dan kemudian menandai Clickjob, kiriman/unggahan Anda akan tunduk pada ketentuan penggunaan dan kebijakan privasi situs/aplikasi tersebut, bahkan saat Anda memposting di halaman resmi Clickjob di jejaring sosial. Kami tidak memiliki kendali atas ketentuan penggunaan dan kebijakan privasi di luar dari Kebijakan Privasi yang diterbitkan untuk mencakup ruang lingkup Clickjob. Oleh karena itu, Anda harus meninjau hal ini sebelum mengirimkan informasi pribadi apa pun.
 
 # **Kebijakan Privasi Situs/Aplikasi Lain**
 
@@ -305,6 +305,6 @@ String privasi = '''
 
 # **Kontak Kami**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Untuk menggunakan salah satu hak Anda sehubungan dengan informasi pribadi Anda, kami dengan hormat meminta Anda untuk menghubungi Pusat Bantuan. Harap sertakan semua detail yang relevan dan dengan akurat, sehingga permintaan Anda dapat ditangani dengan benar. Kami akan memproses setiap permintaan sesuai dengan hukum/undang-undang setempat yang berlaku serta kebijakan dan prosedur kami. Anda juga dapat menghubungi kami melalui <support@collarbear.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Untuk menggunakan salah satu hak Anda sehubungan dengan informasi pribadi Anda, kami dengan hormat meminta Anda untuk menghubungi Pusat Bantuan. Harap sertakan semua detail yang relevan dan dengan akurat, sehingga permintaan Anda dapat ditangani dengan benar. Kami akan memproses setiap permintaan sesuai dengan hukum/undang-undang setempat yang berlaku serta kebijakan dan prosedur kami. Anda juga dapat menghubungi kami melalui <support@clickjob.com>.
 
 ''';

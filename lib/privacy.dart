@@ -104,8 +104,8 @@ class Privacy extends GetResponsiveView<PrivacyController> {
                           padding: const EdgeInsets.only(left: 16.0),
                           child: Text(
                             controller.isEN.value
-                                ? "COLLARBEAR's Legal Documents"
-                                : 'Dokumen Hukum COLLARBEAR',
+                                ? "CLICKJOB's Legal Documents"
+                                : 'Dokumen Hukum CLICKJOB',
                             style: const TextStyle(
                               color: secondaryColor,
                               fontSize: 20,

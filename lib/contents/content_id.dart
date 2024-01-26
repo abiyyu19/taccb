@@ -1,5 +1,5 @@
 const ipc =
-    '''Konten dalam Collarbear didasarkan pada Konten Buatan User (KBU). Collarbear memeriksa konten yang dibuat/diunggah User apakah terdapat pelanggaran hak cipta atau hak lainnya pada saat pendaftaran freelancer dan pengajuan pembuatan PAW. Akan tetapi, dikarenakan keterbatasan yang kami miliki, Collarbear tidak dapat menjamin bahwa semua konten yang masuk dan lolos pemeriksaan sudah 100% bebas/bersih dari pelanggaran tersebut. Namun, jika Anda yakin ada konten yang dibuat/diunggah yang melanggar hak cipta Anda atau hak eksklusif terkait, silakan ikuti proses sebagai berikut.
+    '''Konten dalam Clickjob didasarkan pada Konten Buatan User (KBU). Clickjob memeriksa konten yang dibuat/diunggah User apakah terdapat pelanggaran hak cipta atau hak lainnya pada saat pendaftaran freelancer dan pengajuan pembuatan PAW. Akan tetapi, dikarenakan keterbatasan yang kami miliki, Clickjob tidak dapat menjamin bahwa semua konten yang masuk dan lolos pemeriksaan sudah 100% bebas/bersih dari pelanggaran tersebut. Namun, jika Anda yakin ada konten yang dibuat/diunggah yang melanggar hak cipta Anda atau hak eksklusif terkait, silakan ikuti proses sebagai berikut.
 
 Agar kami dapat meninjau laporan Anda dengan cepat dan efektif, pemberitahuan pelanggaran hak cipta (selanjutnya disebut sebagai Pemberitahuan) harus mencakup hal-hal berikut:
 
@@ -12,12 +12,12 @@ Nama lengkap, alamat tempat tinggal, alamat surel, dan nomor telepon Anda.
 Pernyataan bahwa Anda memiliki keyakinan dengan itikad baik bahwa penggunaan materi dengan cara yang dikeluhkan tidak diizinkan oleh pemilik hak cipta, agennya, atau undang-undang.
 Pernyataan yang dibuat di bawah sumpah bahwa informasi yang diberikan dalam Pemberitahuan itu akurat dan bahwa Anda adalah pemilik hak cipta atau pemilik hak eksklusif yang dilanggar, atau memiliki wewenang untuk mengajukan keluhan atas nama pemilik hak cipta atau pemilik hak eksklusif yang dilanggar.
 Tanda tangan elektronik atau fisik Anda.
-Tim Pusat Bantuan Collarbear akan menyelidiki pelanggaran yang dilaporkan dan menghapus atau menonaktifkan konten yang benar terbukti telah melanggar hak pihak ketiga.
+Tim Pusat Bantuan Clickjob akan menyelidiki pelanggaran yang dilaporkan dan menghapus atau menonaktifkan konten yang benar terbukti telah melanggar hak pihak ketiga.
 
-COLLARBEAR SELALU PATUH DAN TUNDUK PADA PAYUNG HUKUM SETEMPAT YANG MENAUNGI DI MANA PUN USER KAMI BERADA. COLLARBEAR TIDAK BERTANGGUNG JAWAB TERHADAP PELANGGARAN HAK CIPTA ATAU HAK EKSKLUSIF TERKAIT YANG DILAKUKAN/DIPERBUAT USER KAMI. APABILA DITEMUKAN PELANGGARAN DAN ANDA HENDAK MELAYANGKAN GUGATAN HUKUM KEPADA USER LAIN YANG BERSANGKUTAN, ANDA MEMAHAMI DAN MENYETUJUI BAHWA COLLARBEAR TIDAK AKAN TERLIBAT DALAM PROSES TUNTUTAN HUKUM TERSEBUT. ANDA JUGA MEMAHAMI DAN MENYETUJUI BAHWA ANDA AKAN MELEPASKAN SEGALA TUNTUTAN HUKUM KEPADA COLLARBEAR, DI MANA SEGALA MACAM BIAYA ATAU DANA YANG DIPERLUKAN/DIKELUARKAN UNTUK MEMBAWA & MENGURUS PELANGGARAN INI KE MEJA HIJAU AKAN SEPENUHNYA DITANGGUNG OLEH ANDA SENDIRI.''';
+CLICKJOB SELALU PATUH DAN TUNDUK PADA PAYUNG HUKUM SETEMPAT YANG MENAUNGI DI MANA PUN USER KAMI BERADA. CLICKJOB TIDAK BERTANGGUNG JAWAB TERHADAP PELANGGARAN HAK CIPTA ATAU HAK EKSKLUSIF TERKAIT YANG DILAKUKAN/DIPERBUAT USER KAMI. APABILA DITEMUKAN PELANGGARAN DAN ANDA HENDAK MELAYANGKAN GUGATAN HUKUM KEPADA USER LAIN YANG BERSANGKUTAN, ANDA MEMAHAMI DAN MENYETUJUI BAHWA CLICKJOB TIDAK AKAN TERLIBAT DALAM PROSES TUNTUTAN HUKUM TERSEBUT. ANDA JUGA MEMAHAMI DAN MENYETUJUI BAHWA ANDA AKAN MELEPASKAN SEGALA TUNTUTAN HUKUM KEPADA CLICKJOB, DI MANA SEGALA MACAM BIAYA ATAU DANA YANG DIPERLUKAN/DIKELUARKAN UNTUK MEMBAWA & MENGURUS PELANGGARAN INI KE MEJA HIJAU AKAN SEPENUHNYA DITANGGUNG OLEH ANDA SENDIRI.''';
 
 const cookies =
-    '''Tujuan dan penerapan cookie di situs web Collarbear.com dijelaskan dalam Kebijakan Cookie ini. Harap baca Kebijakan Cookie ini agar Anda mengetahui kebijakan pengumpulan, penggunaan, dan pengungkapan cookie kami serta pilihan Anda saat menggunakan cookie.
+    '''Tujuan dan penerapan cookie di situs web Clickjob.com dijelaskan dalam Kebijakan Cookie ini. Harap baca Kebijakan Cookie ini agar Anda mengetahui kebijakan pengumpulan, penggunaan, dan pengungkapan cookie kami serta pilihan Anda saat menggunakan cookie.
 
 Apa sebenarnya cookie itu?
 
@@ -79,13 +79,13 @@ Kami berhak untuk mengubah Kebijakan Cookie ini setiap saat. Kami mengundang And
 
 const cg = '''Pengantar
 
-Collarbear merupakan platform yang mempertemukan komunitas Freelancer dengan para pemilik bisnis ataupun individu (yang bisa disebut juga sebagai Buyer). Para Freelancer dapat menawarkan dan menjual jasanya secara bebas dan para Buyer dapat memposting akan kebutuhan suatu jasa atau menghubungi Freelancer tertentu melalui fitur perpesanan instan yang terdapat di dalam platform, dan kemudian membeli jasa-jasa yang tersedia.
+Clickjob merupakan platform yang mempertemukan komunitas Freelancer dengan para pemilik bisnis ataupun individu (yang bisa disebut juga sebagai Buyer). Para Freelancer dapat menawarkan dan menjual jasanya secara bebas dan para Buyer dapat memposting akan kebutuhan suatu jasa atau menghubungi Freelancer tertentu melalui fitur perpesanan instan yang terdapat di dalam platform, dan kemudian membeli jasa-jasa yang tersedia.
 Dalam interaksinya, kami selalu mengharapkan yang terbaik terjadi antara para Freelancer dan Buyer. Oleh karenanya, untuk memelihara interaksi yang sehat, saling menghargai, aman dan nyaman bagi semua User, kami membuat Pedoman Komunitas ini sebagai suatu standar norma dan nilai yang diharapkan bagi para User dalam berperilaku di platform ini.
 Sebagaimana halnya perkembangan dunia digital yang terus mengalami peningkatan dan perubahan, maka Pedoman Komunitas ini juga turut akan mengikuti peningkatan dan perubahan tersebut. Adapun aturan-aturan dan larangan-larangan yang termuat dalam Pedoman Komunitas ini hanyalah contoh-contoh dari beberapa fenomena yang dianggap bertentangan atau dapat berpotensi menimbulkan kerugian bagi pengguna platform secara umum. Terdapat beberapa hal yang menjadi fokus utama dari Pedoman Komunitas ini seperti jasa terlarang, konten terlarang, perilaku terlarang, dan kebijakan penggunaan anak-anak di bawah umur sebagai jasa ataupun konten dari sebuah jasa yang ditawarkan. Kami menghimbau kepada seluruh pengguna platform ini untuk selalu melaporkan hal-hal yang bertentangan dengan Pedoman Komunitas ini melalui fitur pelaporan yang telah kami sediakan.
 
 Jasa Terlarang
 
-Collarbear adalah tempat terbuka bagi semua orang yang ingin menjual keahliannya sebagai jasa tertentu yang berguna bagi orang lain. Para Buyer pun dapat mencari beraneka ragam jasa yang tersedia. Namun, kami memberikan larangan keras kepada setiap User untuk tidak menawarkan, meminta ataupun membeli suatu jasa yang dapat berpotensi menimbulkan risiko pelanggaran hukum, kerugian finansial, risiko pembajakan atau hack/crack, risiko melanggar syarat dan ketentuan layanan pihak ketiga, risiko plagiarisme atau pencurian karya orang lain, risiko kesehatan dan risiko keamanan.
+Clickjob adalah tempat terbuka bagi semua orang yang ingin menjual keahliannya sebagai jasa tertentu yang berguna bagi orang lain. Para Buyer pun dapat mencari beraneka ragam jasa yang tersedia. Namun, kami memberikan larangan keras kepada setiap User untuk tidak menawarkan, meminta ataupun membeli suatu jasa yang dapat berpotensi menimbulkan risiko pelanggaran hukum, kerugian finansial, risiko pembajakan atau hack/crack, risiko melanggar syarat dan ketentuan layanan pihak ketiga, risiko plagiarisme atau pencurian karya orang lain, risiko kesehatan dan risiko keamanan.
 Dilarang bagi setiap User untuk menawarkan, meminta, dan membeli:
 Jasa-jasa ilegal (yang berkonsekuensi dan dianggap sebagai tindakan melawan hukum seperti: prostitusi, teroris, korupsi dan penipuan);
 Jasa-jasa yang bertujuan untuk memberikan dukungan kepada dan dianggap sebagai tindakan melawan hukum;
@@ -100,7 +100,7 @@ Jasa pembuatan senjata tajam, senjata api, bom dan perakitan yang menggunakan ba
 Jasa pembuatan obat-obatan terlarang.
 Jasa Yang Menyesatkan
 
-Selain daripada jasa-jasa yang memang dilarang secara hukum, Collarbear juga menghimbau dan sangat menganjurkan kepada seluruh User untuk tidak menawarkan, meminta, dan membeli jasa-jasa tertentu yang menyesatkan dan membawa pengaruh buruk kepada orang, institusi, atau produk tertentu dalam lingkup persaingan politik, bisnis komersial, ataupun kebencian kepada golongan tertentu.
+Selain daripada jasa-jasa yang memang dilarang secara hukum, Clickjob juga menghimbau dan sangat menganjurkan kepada seluruh User untuk tidak menawarkan, meminta, dan membeli jasa-jasa tertentu yang menyesatkan dan membawa pengaruh buruk kepada orang, institusi, atau produk tertentu dalam lingkup persaingan politik, bisnis komersial, ataupun kebencian kepada golongan tertentu.
 Dilarang bagi setiap User untuk menawarkan, meminta, dan membeli:
 Jasa untuk memberikan ulasan buruk terhadap orang, institusi, atau produk pada platform tertentu;
 Jasa untuk memberikan testimoni buruk terhadap orang, institusi, atau produk pada platform tertentu;
@@ -109,10 +109,10 @@ Jasa pembuatan Kecerdasan Buatan untuk meniru gerakan dan perkataan individu ter
 Jasa yang mengarah kepada segala jenis produk dan jasa yang menghasilkan ujaran kebencian dan diskriminasi terhadap ras, etnis, dan golongan tertentu;
 Jasa yang menimbulkan gangguan terhadap psikis dan mental individu tertentu seperti perundungan, pelecehan seksual, dan penggunaan bahasa-bahasa kasar yang terkandung di dalam suatu produk atau jasa baik secara eksplisit maupun implisit;
 Jasa untuk membuat berita palsu (hoaks); dan
-Jasa untuk berkampanye politik secara negatif. Collarbear sangat menghargai momen-momen politik dengan tetap meyakini bahwa setiap individu berhak untuk mengekspresikan pilihan politiknya. Namun, Collarbear sangat menentang segala bentuk ekspresi politik negatif yang ditujukan untuk menolak, menjelekkan, atau bahkan menghina individu lain dalam lingkup persaingan politik.
+Jasa untuk berkampanye politik secara negatif. Clickjob sangat menghargai momen-momen politik dengan tetap meyakini bahwa setiap individu berhak untuk mengekspresikan pilihan politiknya. Namun, Clickjob sangat menentang segala bentuk ekspresi politik negatif yang ditujukan untuk menolak, menjelekkan, atau bahkan menghina individu lain dalam lingkup persaingan politik.
 
 Jasa Lain yang Berpotensi Melanggar Prinsip Akademik ataupun Kode Etik Komunitas Profesi Tertentu yang Berlaku
-Collarbear sangat menentang segala jenis tawaran atau permintaan yang dilakukan oleh Freelancer ataupun Buyer yang dianggap berpotensi bisa mengarah kepada pelanggaran akademik atau mencederai atau melanggar kode etik dari komunitas profesi tertentu yang dinaungi secara hukum.
+Clickjob sangat menentang segala jenis tawaran atau permintaan yang dilakukan oleh Freelancer ataupun Buyer yang dianggap berpotensi bisa mengarah kepada pelanggaran akademik atau mencederai atau melanggar kode etik dari komunitas profesi tertentu yang dinaungi secara hukum.
 Dilarang bagi setiap User untuk menjual, meminta dan membeli:
 Jasa pembuatan karya ilmiah atas nama (mengatasnamakan) orang lain;
 Jasa pengerjaan tes aplikasi pendaftaran sekolah, universitas, dan institusi pendidikan lainnya, atau institusi profesi tertentu yang mensyaratkan ujian seleksi masuk;
@@ -123,11 +123,11 @@ Jasa pembuatan surat keterangan kelulusan (untuk keperluan apapun), yang tidak s
 
 Janji Berlebihan
 
-Kami sangat menganjurkan Freelancer untuk tidak mengumbar janji berlebihan ketika menjual/menawarkan jasanya, baik melalui PAW, pitching, maupun ketika proses Offer. Anda tidak tahu hambatan tidak terduga apa yang dapat menghalangi Anda, dan tindakan tersebut dikhawatirkan akan menjadi bom waktu untuk diri Anda sendiri (mis. User yang menjadi pelanggan Anda melayangkan sengketa pada proyek Anda karena yang bersangkutan merasa Anda tidak memberikan hasil kerja yang sesuai). Apabila proyek Anda sampai disengketakan dan Buyer memenangkan sengketa tersebut, maka Collarbear tidak bertanggung jawab terhadap kerugian yang Anda derita.
+Kami sangat menganjurkan Freelancer untuk tidak mengumbar janji berlebihan ketika menjual/menawarkan jasanya, baik melalui PAW, pitching, maupun ketika proses Offer. Anda tidak tahu hambatan tidak terduga apa yang dapat menghalangi Anda, dan tindakan tersebut dikhawatirkan akan menjadi bom waktu untuk diri Anda sendiri (mis. User yang menjadi pelanggan Anda melayangkan sengketa pada proyek Anda karena yang bersangkutan merasa Anda tidak memberikan hasil kerja yang sesuai). Apabila proyek Anda sampai disengketakan dan Buyer memenangkan sengketa tersebut, maka Clickjob tidak bertanggung jawab terhadap kerugian yang Anda derita.
 
 Konten Buatan User (KBU)
 
-Collarbear juga menjadi tempat bagi komunitas User (baik Freelancer maupun Buyer) untuk dapat membuat konten di dalam platform. Collarbear meyakini dan menjamin bahwa setiap User bebas menggunakan platform ini untuk menciptakan konten-konten yang menarik sebagai bagian dari kebebasan berekspresi dan menyampaikan pendapat. Akan tetapi, terdapat beberapa larangan terkait dengan pembuatan konten yang dianggap penting untuk dijadikan pedoman.
+Clickjob juga menjadi tempat bagi komunitas User (baik Freelancer maupun Buyer) untuk dapat membuat konten di dalam platform. Clickjob meyakini dan menjamin bahwa setiap User bebas menggunakan platform ini untuk menciptakan konten-konten yang menarik sebagai bagian dari kebebasan berekspresi dan menyampaikan pendapat. Akan tetapi, terdapat beberapa larangan terkait dengan pembuatan konten yang dianggap penting untuk dijadikan pedoman.
 
 Informasi Profil, PAW dan Project Auction
 Profil, PAW dan Project Auction adalah sarana di mana setiap User dapat menciptakan konten yang sesuai dengan kebutuhannya. Setiap User dapat menulis, mendeskripsikan, mengunggah dokumen, gambar, animasi, dan video sesuai dengan kebutuhannya (atau konten yang dianggap mewakili permintaan/penawarannya).
@@ -144,25 +144,25 @@ Menjelekkan jasa Freelancer tertentu atau menyebutkan Buyer tertentu secara eksp
 
 Perilaku Kekerasan dan Kriminal
 
-Collarbear tidak dapat sepenuhnya melakukan kontrol terhadap bagaimana setiap User bertindak, berperilaku dan berinteraksi dengan User lainnya. Keterbatasan ini yang kemudian harus digarisbawahi bahwa Pedoman Komunitas ini juga memiliki keterbatasan dari segi pengawasannya, namun berupaya untuk tetap menghimbau kepada seluruh Usernya untuk menghindari perilaku yang memiliki kecenderungan terhadap segala bentuk kekerasan dan kriminal.
-Setiap User Collarbear dilarang untuk:
+Clickjob tidak dapat sepenuhnya melakukan kontrol terhadap bagaimana setiap User bertindak, berperilaku dan berinteraksi dengan User lainnya. Keterbatasan ini yang kemudian harus digarisbawahi bahwa Pedoman Komunitas ini juga memiliki keterbatasan dari segi pengawasannya, namun berupaya untuk tetap menghimbau kepada seluruh Usernya untuk menghindari perilaku yang memiliki kecenderungan terhadap segala bentuk kekerasan dan kriminal.
+Setiap User Clickjob dilarang untuk:
 Memberikan ancaman baik secara eskplisit dan implisit, verbal dan nonverbal;
 Meneror atau bahkan mengancam User lain;
 Memuja kekerasan yang telah terjadi ataupun yang belum terjadi;
-Menghasut User lain untuk melawan perbuatan hukum baik menggunakan platform Collarbear maupun tidak;
+Menghasut User lain untuk melawan perbuatan hukum baik menggunakan platform Clickjob maupun tidak;
 Melecehkan, merundung, menganggu dan bahkan mengakibatkan terganggunya kesehatan mental dan psikis pengguna lain;
 Menolak untuk bekerjasama dengan etnis, ras atau golongan tertentu secara eksplisit;
 Mencuri karya orang lain untuk dijadikan sebagai portfolio atau hasil kerja pribadi; dan
 Mengekspresikan secara eksplisit perlakuan kekerasan fisik yang telah terjadi ataupun yang akan terjadi terhadap dirinya atau orang lain.
 Keterlibatan Anak-Anak Pada Konten dan Jasa
-Collarbear memiliki kebijakan yang sangat jelas terkait dengan batasan umur pengguna platform. Namun, tidak dapat dipungkiri bahwa terdapat beberapa jasa yang mengharuskan adanya keterlibatan anak-anak di bawah umur, seperti foto produk, peragaan, pengisi suara dan jasa-jasa lain yang membutuhkan anak-anak di bawah umur sebagai subjek ataupun objek. Oleh karenanya, setiap Freelancer dan Buyer harus tetap mematuhi Syarat & Ketentuan Layanan serta Hukum Perlindungan Anak di Bawah Umur setempat yang berlaku.
-Setiap User Collarbear dilarang untuk:
+Clickjob memiliki kebijakan yang sangat jelas terkait dengan batasan umur pengguna platform. Namun, tidak dapat dipungkiri bahwa terdapat beberapa jasa yang mengharuskan adanya keterlibatan anak-anak di bawah umur, seperti foto produk, peragaan, pengisi suara dan jasa-jasa lain yang membutuhkan anak-anak di bawah umur sebagai subjek ataupun objek. Oleh karenanya, setiap Freelancer dan Buyer harus tetap mematuhi Syarat & Ketentuan Layanan serta Hukum Perlindungan Anak di Bawah Umur setempat yang berlaku.
+Setiap User Clickjob dilarang untuk:
 Menggunakan anak-anak di bawah umur sebagai konten maupun jasa yang mengarah kepada pornografi dan pornoaksi (pemuasan/pemenuhan hasrat seksual); dan
 Menggunakan anak-anak di bawah umur sebagai pekerja yang tidak dipenuhi haknya sehingga mengakibatkan gangguan fisik, mental, intelektual dan moral.
 
 Tindakan Tegas
 
-Melalui Pedoman Komunitas ini, Collarbear akan secara tegas menindak setiap User yang melakukan pelanggaran. Collarbear berhak untuk menghentikan sementara, atau menghentikan secara permanen akun pelanggar.  Setiap User diharapkan untuk melaporkan setiap pelanggaran-pelanggaran yang terjadi melalui fitur pelaporan yang telah disediakan. Untuk menindak secara tegas, tim Layanan Dukungan Pelanggan kami juga membutuhkan bukti-bukti yang kuat. Tanpa adanya bukti-bukti kuat (menguatkan), maka Collarbear tidak akan memproses penindakan tersebut. Collarbear juga senantiasa akan selalu bekerjasama dengan pihak berwajib untuk berupaya melakukan pencegahan dan penindakan hukum yang sesuai.
+Melalui Pedoman Komunitas ini, Clickjob akan secara tegas menindak setiap User yang melakukan pelanggaran. Clickjob berhak untuk menghentikan sementara, atau menghentikan secara permanen akun pelanggar.  Setiap User diharapkan untuk melaporkan setiap pelanggaran-pelanggaran yang terjadi melalui fitur pelaporan yang telah disediakan. Untuk menindak secara tegas, tim Layanan Dukungan Pelanggan kami juga membutuhkan bukti-bukti yang kuat. Tanpa adanya bukti-bukti kuat (menguatkan), maka Clickjob tidak akan memproses penindakan tersebut. Clickjob juga senantiasa akan selalu bekerjasama dengan pihak berwajib untuk berupaya melakukan pencegahan dan penindakan hukum yang sesuai.
 ''';
 
 const acc = '''Mekanisme Sanksi Akun
@@ -172,8 +172,8 @@ Ketika akun Anda ditangguhkan atau diblokir, Anda akan melihat pesan sistem yang
 
 Penonaktifan & Penghapusan Akun
 
-Setiap pengguna mempunyai hak masing-masing untuk menonaktifkan atau menghapus akunnya. Collarbear memberi pengguna fungsi khusus agar pengguna dapat memilih untuk menonaktifkan atau menghapus akun mereka sendiri. Fungsi-fungsi ini tersedia di Pengaturan > Akun. Namun bagi pengguna yang sedang memiliki pesanan aktif, dilarang menonaktifkan atau menghapus akunnya sampai status pesanan dinyatakan selesai atau dibatalkan terlebih dahulu.
+Setiap pengguna mempunyai hak masing-masing untuk menonaktifkan atau menghapus akunnya. Clickjob memberi pengguna fungsi khusus agar pengguna dapat memilih untuk menonaktifkan atau menghapus akun mereka sendiri. Fungsi-fungsi ini tersedia di Pengaturan > Akun. Namun bagi pengguna yang sedang memiliki pesanan aktif, dilarang menonaktifkan atau menghapus akunnya sampai status pesanan dinyatakan selesai atau dibatalkan terlebih dahulu.
 Penonaktifan akun berarti bahwa pengguna mungkin tidak memiliki akses ke sebagian besar fitur dan fungsi Platform. Pengguna yang telah menonaktifkan akunnya mungkin masih bisa masuk, namun perlu mengaktifkan akunnya agar dapat menggunakan platform.
-Sedangkan penghapusan Akun berarti pengguna (informasi) tidak lagi dianggap sebagai pengguna terdaftar dan tidak diperbolehkan meminta pemulihan akun. Akun yang dihapus akan dihapus (berdasarkan keberadaan informasinya) dari sistem pencaharian atau sistem rekomendasi Collarbear dan tidak akan ditemukan oleh pengguna lain dari sistem pencarian Collarbear. Informasi akun yang dihapus akan disimpan dengan aman dan tidak akan dihapus hingga masa penyimpanannya berakhir. Untuk informasi lebih lanjut tentang Periode Penyimpanan Data Pribadi kami dan hak kepemilikan data, baca Kebijakan Privasi kami.
+Sedangkan penghapusan Akun berarti pengguna (informasi) tidak lagi dianggap sebagai pengguna terdaftar dan tidak diperbolehkan meminta pemulihan akun. Akun yang dihapus akan dihapus (berdasarkan keberadaan informasinya) dari sistem pencaharian atau sistem rekomendasi Clickjob dan tidak akan ditemukan oleh pengguna lain dari sistem pencarian Clickjob. Informasi akun yang dihapus akan disimpan dengan aman dan tidak akan dihapus hingga masa penyimpanannya berakhir. Untuk informasi lebih lanjut tentang Periode Penyimpanan Data Pribadi kami dan hak kepemilikan data, baca Kebijakan Privasi kami.
 
 ''';

@@ -19,9 +19,7 @@ class _TermOfServiceState extends State<TermOfService> {
           centerTitle: false,
           backgroundColor: Colors.white,
           title: Text(
-            isEN
-                ? 'COLLARBEAR Term of Service'
-                : 'Syarat dan Ketentuan COLLARBEAR',
+            isEN ? 'CLICKJOB Term of Service' : 'Syarat dan Ketentuan CLICKJOB',
             style: const TextStyle(
               color: secondaryColor,
               fontWeight: FontWeight.bold,
