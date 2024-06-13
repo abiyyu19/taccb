@@ -80,7 +80,7 @@ class _HelpCenterState extends State<HelpCenter> {
         centerTitle: false,
         backgroundColor: Colors.white,
         title: const Text(
-          'CLICKJOB Help Center',
+          'KLIKJOB Help Center',
           style: TextStyle(
             color: secondaryColor,
             fontWeight: FontWeight.bold,

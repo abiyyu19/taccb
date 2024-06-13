@@ -12,7 +12,7 @@ class CBDocsApp extends StatelessWidget {
   @override
   Widget build(_) => GetMaterialApp(
         scrollBehavior: MyCustomScrollBehavior(),
-        title: "CLICKJOB's Legal Documents",
+        title: "KLIKJOB's Legal Documents",
         debugShowCheckedModeBanner: false,
         initialRoute: RoutesName.privacy,
         getPages: [

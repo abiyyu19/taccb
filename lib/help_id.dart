@@ -1,47 +1,47 @@
 const manajement = 'Manajemen Akun';
 const manajementEN = 'General Account Management';
 
-const register = 'Cara Mendaftar di Clickjob';
-const registerEN = 'Register on clickjob';
+const register = 'Cara Mendaftar di Klikjob';
+const registerEN = 'Register on klikjob';
 
 const registerContent =
-    '''Pernyataan : Menurut Persyaratan Layanan Clickjob, semua pengguna harus berusia minimal 17 tahun dan cukup umur untuk membuat perjanjian yang mengikat secara hukum. Pengguna di bawah usia 17 tahun hanya diperbolehkan mengakses situs menggunakan akun milik orang tua atau wali sah mereka dengan izin.
+    '''Pernyataan : Menurut Persyaratan Layanan Klikjob, semua pengguna harus berusia minimal 17 tahun dan cukup umur untuk membuat perjanjian yang mengikat secara hukum. Pengguna di bawah usia 17 tahun hanya diperbolehkan mengakses situs menggunakan akun milik orang tua atau wali sah mereka dengan izin.
 
-Harap diingat bahwa semua akun baru di Clickjob akan terdaftar sebagai akun Pembeli secara otomatis.
+Harap diingat bahwa semua akun baru di Klikjob akan terdaftar sebagai akun Pembeli secara otomatis.
 
-Jika Pembeli memilih untuk mulai menyediakan layanan di Clickjob sebagai Freelancer, kedua akun menjadi berbeda satu sama lain. Anda dapat membuat akun Pembeli dan mengaktifkan akun Freelancer Anda dengan bantuan postingan ini.
-
-
-
-Anda dapat mengatur akun Pembeli, akun Freelancer, atau akun Pembeli/Freelancer di Clickjob. Di Clickjob, Anda hanya diperbolehkan memiliki satu akun Freelancer.
+Jika Pembeli memilih untuk mulai menyediakan layanan di Klikjob sebagai Freelancer, kedua akun menjadi berbeda satu sama lain. Anda dapat membuat akun Pembeli dan mengaktifkan akun Freelancer Anda dengan bantuan postingan ini.
 
 
 
-Membuat akun Clickjob :
+Anda dapat mengatur akun Pembeli, akun Freelancer, atau akun Pembeli/Freelancer di Klikjob. Di Klikjob, Anda hanya diperbolehkan memiliki satu akun Freelancer.
 
 
 
-1. Klik Daftar di situs Clickjob.
+Membuat akun Klikjob :
+
+
+
+1. Klik Daftar di situs Klikjob.
 
 2. Masukkan alamat email, nomor telepon, kata sandi, & konfirmasi kata sandi Anda.
 
 
 
-Catatan : Selain metode di atas, Anda dapat mendaftar di Clickjob menggunakan akun Google, Facebook, atau Linkedin.
+Catatan : Selain metode di atas, Anda dapat mendaftar di Klikjob menggunakan akun Google, Facebook, atau Linkedin.
 
 
 
 3. Pilih metode verifikasi antara email atau nomor telepon, lalu klik Daftar
 
-4. Anda berhasil membuat akun Clickjob! Karena tautan untuk mengaktifkan akun Anda dikirim ke alamat email atau nomor telepon Anda yang terdaftar, maka silakan periksa email atau nomor telepon Anda.
+4. Anda berhasil membuat akun Klikjob! Karena tautan untuk mengaktifkan akun Anda dikirim ke alamat email atau nomor telepon Anda yang terdaftar, maka silakan periksa email atau nomor telepon Anda.
 
-5. Klik tautan aktivasi yang dikirim Clickjob ke email atau nomor telepon Anda.
+5. Klik tautan aktivasi yang dikirim Klikjob ke email atau nomor telepon Anda.
 
 6. Anda akan dapat mengaktifkan akun Freelancer setelah berhasil membuat akun menggunakan metode yang disebutkan di atas.
 
 
 
-Bergabung sebagai Freelancer di Clickjob :
+Bergabung sebagai Freelancer di Klikjob :
 
 
 
@@ -61,7 +61,7 @@ Ingat: Profil Freelancer Anda akan lebih baik jika informasi yang Anda cantumkan
 
 5. Pilih metode verifikasi antara email atau nomor telepon, lalu klik Kirim.
 
-6. Salin Nomor OTP dari Clickjob yang dikirim ke email atau nomor telepon Anda ke Kolom Aktivasi OTP, lalu klik Kirim.
+6. Salin Nomor OTP dari Klikjob yang dikirim ke email atau nomor telepon Anda ke Kolom Aktivasi OTP, lalu klik Kirim.
 
 7. Langkah 2 dari pendaftaran Freelancer akan ditampilkan di halaman Anda ; lengkapi semua bidang yang diperlukan (seperti yang ditandai dengan tanda bintang). Pastikan Anda mengisi kolom dengan memberikan detail yang benar dan tepat tentang pendidikan, riwayat pekerjaan, dan bakat Anda.
 
@@ -70,37 +70,37 @@ Ingat : Profil Freelancer Anda akan lebih baik jika informasi yang Anda cantumka
 8. Setelah mengisi semua kolom yang wajib diisi, klik Kirim.''';
 
 const registerContentEN =
-    '''Disclaimer: According to Clickjob's Terms of Service, all users must be at least 17 years old and of legal age to enter into legally binding agreements. Users under the age of 17 are only allowed to access the site using an account that belongs to their parent or legal guardian with their permission.
+    '''Disclaimer: According to Klikjob's Terms of Service, all users must be at least 17 years old and of legal age to enter into legally binding agreements. Users under the age of 17 are only allowed to access the site using an account that belongs to their parent or legal guardian with their permission.
 
-Remember that all Clickjob accounts are formed as buyer accounts by default before we go into the specific methods to build your account.
+Remember that all Klikjob accounts are formed as buyer accounts by default before we go into the specific methods to build your account.
 
-If a buyer chooses to start providing services on Clickjob as a Freelancer, the two accounts become distinct from one another. You may create a buyer account and activate your Freelancer account with the help of this post.
+If a buyer chooses to start providing services on Klikjob as a Freelancer, the two accounts become distinct from one another. You may create a buyer account and activate your Freelancer account with the help of this post.
 
-You may set up a buyer account, a freelancer account, or a buyer/freelancer account on Clickjob. On Clickjob, you are only allowed to have one Freelancer account.
+You may set up a buyer account, a freelancer account, or a buyer/freelancer account on Klikjob. On Klikjob, you are only allowed to have one Freelancer account.
 
 
 
-Creating a Clickjob account:
+Creating a Klikjob account:
 
-1. Click Register on the Clickjob site. 
+1. Click Register on the Klikjob site. 
 
 2. Enter your email address, phone number, password, & confirm password.
 
-Note : Additionally, you may sign up for Clickjob using a Google, Facebook, or Linkedin account.
+Note : Additionally, you may sign up for Klikjob using a Google, Facebook, or Linkedin account.
 
 3. Select your verification method between email or phone number, then click Register
 
-4. You are officially a Clickjob member! As the link to activate your account will be sent to your registered email address or phone number, please check there.
+4. You are officially a Klikjob member! As the link to activate your account will be sent to your registered email address or phone number, please check there.
 
-5. Click the link in the link activation Clickjob sends to your email or phone number.
+5. Click the link in the link activation Klikjob sends to your email or phone number.
 
 6. You will be able to activate your Freelancer account once you have successfully created your account using the aforementioned methods.
 
 
 
-Join Clickjob as a Freelancer :
+Join Klikjob as a Freelancer :
 
-1. Change the toggle on the Clickjob homepage from Buyer to Freelancer.
+1. Change the toggle on the Klikjob homepage from Buyer to Freelancer.
 
 2. Select a worker category, between Inside Worker or Field Worker
 
@@ -116,7 +116,7 @@ Remember: Your Freelancer profile will be better if the information you submit i
 
 5. Select your verification method between email or phone number, then click Submit.
 
-6. Copy the OTP to the OTP Activation Field from the OTP Number Clickjob sent to your email or phone number, and then click Submit.
+6. Copy the OTP to the OTP Activation Field from the OTP Number Klikjob sent to your email or phone number, and then click Submit.
 
 7. Step 2 of the freelancer application will display on your page; complete all the required fields (as marked with an asterisk). Make sure you complete your onboarding by providing only true and precise details about your education, employment history, and talents.
 
@@ -128,9 +128,9 @@ const find = 'Cara menemukan Freelancer';
 const findEN = 'How to find a Freelancer?';
 
 const findContent =
-    '''Pernyataan : Menurut Persyaratan Layanan Clickjob, semua pengguna harus berusia minimal 17 tahun dan cukup umur untuk membuat perjanjian yang mengikat secara hukum. Pengguna di bawah usia 17 tahun hanya diperbolehkan mengakses situs menggunakan akun milik orang tua atau wali sah mereka dengan izin.
+    '''Pernyataan : Menurut Persyaratan Layanan Klikjob, semua pengguna harus berusia minimal 17 tahun dan cukup umur untuk membuat perjanjian yang mengikat secara hukum. Pengguna di bawah usia 17 tahun hanya diperbolehkan mengakses situs menggunakan akun milik orang tua atau wali sah mereka dengan izin.
 
-Clickjob menawarkan berbagai layanan, mencoba menemukan yang paling sesuai dengan kebutuhan Anda bisa jadi sulit pada awalnya. Namun, dengan menggunakan mesin pencari Clickjob, Anda dapat mempersempit pencarian untuk menemukan layanan yang Anda butuhkan.
+Klikjob menawarkan berbagai layanan, mencoba menemukan yang paling sesuai dengan kebutuhan Anda bisa jadi sulit pada awalnya. Namun, dengan menggunakan mesin pencari Klikjob, Anda dapat mempersempit pencarian untuk menemukan layanan yang Anda butuhkan.
 
 
 
@@ -156,7 +156,7 @@ Filter untuk mencari Freelancer berdasarkan peringkat, mulai dari Freelancer bar
 
 Bahasa
 
-Freelancer di Clickjob dapat membuat daftar bahasa yang mereka gunakan di seluruh dunia. Gunakan bahasa apa pun yang Anda suka untuk berkomunikasi dengan Freelancer.
+Freelancer di Klikjob dapat membuat daftar bahasa yang mereka gunakan di seluruh dunia. Gunakan bahasa apa pun yang Anda suka untuk berkomunikasi dengan Freelancer.
 
 Rating
 
@@ -200,13 +200,13 @@ Jadwal Pengiriman
 
 Filter untuk mencari PAW berdasarkan jadwal pengiriman.''';
 const findContentEN =
-    '''Disclaimer: According to Clickjob's Terms of Service, all users must be at least 17 years old and of legal age to enter into legally binding agreements. Users under the age of 17 are only allowed to access the site using an account that belongs to their parent or legal guardian with their permission.
+    '''Disclaimer: According to Klikjob's Terms of Service, all users must be at least 17 years old and of legal age to enter into legally binding agreements. Users under the age of 17 are only allowed to access the site using an account that belongs to their parent or legal guardian with their permission.
 
-Clickjob offers a lot of services, trying to find the perfect one for what you need can seem difficult at first. But, by using Clickjob's search engine, you can narrow down your search to find the exact service you need.
+Klikjob offers a lot of services, trying to find the perfect one for what you need can seem difficult at first. But, by using Klikjob's search engine, you can narrow down your search to find the exact service you need.
 
 Searching for a service
 
-Enter the service you're searching for in the search box at the top of the site and hit "Search." The service may be entered in the homepage banner even if you are only viewing Clickjob and are not logged in. Then, click Search. The search bar's autocomplete feature suggests the most popular search keywords as well as the categories where you may discover them as you type. Ex. It will propose "logo design" or "Andrew" as a logo specialist if you type "logo”.
+Enter the service you're searching for in the search box at the top of the site and hit "Search." The service may be entered in the homepage banner even if you are only viewing Klikjob and are not logged in. Then, click Search. The search bar's autocomplete feature suggests the most popular search keywords as well as the categories where you may discover them as you type. Ex. It will propose "logo design" or "Andrew" as a logo specialist if you type "logo”.
 
 After being sent to your results page, a few filters will be shown on the left side of the screen. The PAW category or subcategory may have different filters, but you may always specify your chosen budget, delivery schedule, and other particular Freelancer information to focus your search. Find the ideal Freelancer for the task you want by going onward! 
 
@@ -224,7 +224,7 @@ Ranging from a new Freelancer to a Top-Rated Freelancer.
 
 Language
 
-Freelancers on Clickjob can list the languages they speak and are situated all over the world. Use whatever language you like to communicate with freelancers.
+Freelancers on Klikjob can list the languages they speak and are situated all over the world. Use whatever language you like to communicate with freelancers.
 
 Rating
 
@@ -270,10 +270,10 @@ Delivery Time
 
 Filter Freelancers based on your preferred delivery time.''';
 
-const fee = 'Biaya platform di Clickjob';
-const feeEN = 'Clickjob Platform Fee';
+const fee = 'Biaya platform di Klikjob';
+const feeEN = 'Klikjob Platform Fee';
 
-const feeContent = '''Untuk menonaktifkan akun Clickjob Anda:
+const feeContent = '''Untuk menonaktifkan akun Klikjob Anda:
 
 1. Klik gambar profil Anda
 
@@ -283,9 +283,9 @@ const feeContent = '''Untuk menonaktifkan akun Clickjob Anda:
 
 Ingat :
 
-1. Jika Freelancer memilih Nonaktifkan Akun, Freelancer tidak perlu menarik saldo yang tersisa. Itu akan tetap ada di data Clickjob sebagai saldo Freelancer.
+1. Jika Freelancer memilih Nonaktifkan Akun, Freelancer tidak perlu menarik saldo yang tersisa. Itu akan tetap ada di data Klikjob sebagai saldo Freelancer.
 
-2. Jika Freelancer menonaktifkan akun selama lebih dari 1 bulan, beberapa tindakan yang perlu dilakukan saat aktif di Clickjob lagi, seperti: Verifikasi Ulang Profil dan Data oleh Komite Clickjob (Sesi Wawancara dengan Komite Clickjob)
+2. Jika Freelancer menonaktifkan akun selama lebih dari 1 bulan, beberapa tindakan yang perlu dilakukan saat aktif di Klikjob lagi, seperti: Verifikasi Ulang Profil dan Data oleh Komite Klikjob (Sesi Wawancara dengan Komite Klikjob)
 
 Catatan : Salam poin yang disebutkan pada No.2, mohon siapkan Checklist untuk sesi wawancara.
 
@@ -293,20 +293,20 @@ Catatan : Salam poin yang disebutkan pada No.2, mohon siapkan Checklist untuk se
 
 4. Informasi di akun Anda tidak langsung terhapus saat Anda menutupnya. Gambar publik, teks, dan komentar dari masa lalu masih ada.''';
 const feeContentEN =
-    '''A digitally optimized transactional platform is provided by Clickjob, a marketplace for digital services, for both buyers and freelancers. A "PAW" is the special word for a service provided by a Freelancer on Clickjob. Freelancers can select their beginning pricing point while developing PAW. By employing PAW Packages, freelancers may go one step further and provide PAW Packages to buyers. These have a range of prices, and freelancers can provide buyers with a variety of service plans. Buyers may select from everything on offer in accordance with their unique needs in this way. 
+    '''A digitally optimized transactional platform is provided by Klikjob, a marketplace for digital services, for both buyers and freelancers. A "PAW" is the special word for a service provided by a Freelancer on Klikjob. Freelancers can select their beginning pricing point while developing PAW. By employing PAW Packages, freelancers may go one step further and provide PAW Packages to buyers. These have a range of prices, and freelancers can provide buyers with a variety of service plans. Buyers may select from everything on offer in accordance with their unique needs in this way. 
 
 Registering
 
-Only registered users may purchase and sell on Clickjob, but registration is free. Your account will be created immediately as a buyer account when you join up. The steps below should be followed to sign up as a Freelancer. Almost anyone may use Clickjob to sell something that fits their skill set. Look through our many categories to see where your abilities belong in and how you want to market. The finest freelancers avoid miscommunication and effectively manage buyers' expectations.
+Only registered users may purchase and sell on Klikjob, but registration is free. Your account will be created immediately as a buyer account when you join up. The steps below should be followed to sign up as a Freelancer. Almost anyone may use Klikjob to sell something that fits their skill set. Look through our many categories to see where your abilities belong in and how you want to market. The finest freelancers avoid miscommunication and effectively manage buyers' expectations.
 
 Payment
 
-Buyers give Clickjob a down payment. 90 percent of the entire order value is paid to freelancers upon delivery and completion of an assignment. For instance, the Freelancer will earn IDR 90.000 for completing an order if the service costs IDR 100,000. See our Terms of Service and Terms of Payment for details. ''';
+Buyers give Klikjob a down payment. 90 percent of the entire order value is paid to freelancers upon delivery and completion of an assignment. For instance, the Freelancer will earn IDR 90.000 for completing an order if the service costs IDR 100,000. See our Terms of Service and Terms of Payment for details. ''';
 
 const nonaktif = 'Menonaktifkan akun';
 const nonaktifEN = 'Deactivate Account';
 
-const nonaktifContent = '''Untuk menonaktifkan akun Clickjob Anda:
+const nonaktifContent = '''Untuk menonaktifkan akun Klikjob Anda:
 
 1. Klik gambar profil Anda
 
@@ -316,16 +316,16 @@ const nonaktifContent = '''Untuk menonaktifkan akun Clickjob Anda:
 
 Ingat :
 
-1. Jika Freelancer memilih Nonaktifkan Akun, Freelancer tidak perlu menarik saldo yang tersisa. Itu akan tetap ada di data Clickjob sebagai saldo Freelancer.
+1. Jika Freelancer memilih Nonaktifkan Akun, Freelancer tidak perlu menarik saldo yang tersisa. Itu akan tetap ada di data Klikjob sebagai saldo Freelancer.
 
-2. Jika Freelancer menonaktifkan akun selama lebih dari 1 bulan, beberapa tindakan yang perlu dilakukan saat aktif di Clickjob lagi, seperti: Verifikasi Ulang Profil dan Data oleh Komite Clickjob (Sesi Wawancara dengan Komite Clickjob)
+2. Jika Freelancer menonaktifkan akun selama lebih dari 1 bulan, beberapa tindakan yang perlu dilakukan saat aktif di Klikjob lagi, seperti: Verifikasi Ulang Profil dan Data oleh Komite Klikjob (Sesi Wawancara dengan Komite Klikjob)
 
 Catatan : Salam poin yang disebutkan pada No.2, mohon siapkan Checklist untuk sesi wawancara.
 
 3. Penggunaan nama pengguna dan alamat email yang digunakan sebelumnya di akun baru di masa mendatang tidak diizinkan. Sebelum menutup akun yang ingin Anda gunakan untuk memulai yang baru, berhati-hatilah untuk memperbarui alamat email Anda.
 
 4. Informasi di akun Anda tidak langsung terhapus saat Anda menutupnya. Gambar publik, teks, dan komentar dari masa lalu masih ada.''';
-const nonaktifContentEN = '''To deactivate your Clickjob account :
+const nonaktifContentEN = '''To deactivate your Klikjob account :
 
 1. Click on your profile picture
 
@@ -335,9 +335,9 @@ const nonaktifContentEN = '''To deactivate your Clickjob account :
 
 Remember :
 
-1. If Freelancer choose to Deactivate Account, Freelancer doesn’t need to withdraw remaining balance. It will still remain in Clickjob data as Freelancer’s balance.
+1. If Freelancer choose to Deactivate Account, Freelancer doesn’t need to withdraw remaining balance. It will still remain in Klikjob data as Freelancer’s balance.
 
-2. If Freelancer deactivate account for more than 1 month, few actions need to be take while active in Clickjob again, such as: Re-Verification Profile and Data by Clickjob Committee (Interview Session with Clickjob Committee)
+2. If Freelancer deactivate account for more than 1 month, few actions need to be take while active in Klikjob again, such as: Re-Verification Profile and Data by Klikjob Committee (Interview Session with Klikjob Committee)
 
 Note : Regards point mentioned on No.2, please prepare Checklist for the interview session.
 
@@ -349,9 +349,9 @@ const hapus = 'Menghapus Akun';
 const hapusEN = 'Delete Account';
 
 const hapusContent =
-    '''Atas permintaan, anggota tim Dukungan Pelanggan kami dapat menghapus akun Clickjob Anda secara permanen. Anda harus terlebih dahulu membatalkan akun Anda agar dapat diproses.
+    '''Atas permintaan, anggota tim Dukungan Pelanggan kami dapat menghapus akun Klikjob Anda secara permanen. Anda harus terlebih dahulu membatalkan akun Anda agar dapat diproses.
 
-Untuk menghapus akun Clickjob Anda :
+Untuk menghapus akun Klikjob Anda :
 
 1. Klik gambar profil Anda
 
@@ -371,12 +371,12 @@ Catatan:
 
 • Pada akun baru, nama pengguna tidak dapat digunakan lagi. Pastikan Anda mengganti alamat email Anda jika Anda akan membuat akun baru sebelum Anda menutup yang lama.
 
-• Ketika Anda memiliki uang di akun Anda, Anda tidak dapat menutupnya (Saldo Clickjob atau Pendapatan yang Diperoleh). Akun tidak dapat dibatalkan sampai uang ini ditarik atau dilunasi.''';
+• Ketika Anda memiliki uang di akun Anda, Anda tidak dapat menutupnya (Saldo Klikjob atau Pendapatan yang Diperoleh). Akun tidak dapat dibatalkan sampai uang ini ditarik atau dilunasi.''';
 
 const hapusContentEN =
-    '''Upon request, the members of our Customer Support team can permanently remove your Clickjob account. You must first cancel your account on your end in order for this to be processed.
+    '''Upon request, the members of our Customer Support team can permanently remove your Klikjob account. You must first cancel your account on your end in order for this to be processed.
 
-To delete your Clickjob account :
+To delete your Klikjob account :
 
 1. Click on your profile picture
 
@@ -390,16 +390,16 @@ Please remember that this process is irreversible and permanent. To ensure that 
 
 · On a new account, a username cannot be used again. Please be sure you switch your email address if you're going to establish a new account before you close the old one.
 
-· When you have money in your account, you cannot close it (Clickjob Balance or Earned Revenues). The account cannot be canceled until these money have been withdrawn or repaid.''';
+· When you have money in your account, you cannot close it (Klikjob Balance or Earned Revenues). The account cannot be canceled until these money have been withdrawn or repaid.''';
 
 const about = 'Tentang Freelancer';
 const aboutEN = 'About Freelancer';
 
-const menjadi = 'Cara menjadi Freelancer di Clickjob';
-const menjadiEN = 'How to be a Freelancer on Clickjob?';
+const menjadi = 'Cara menjadi Freelancer di Klikjob';
+const menjadiEN = 'How to be a Freelancer on Klikjob?';
 
 const menjadiContent =
-    '''Secara otomatis, semua akun Clickjob adalah akun Pembeli. Jika Anda sudah menjadi Pembeli dan ingin menjadi Freelancer, ikuti langkah-langkah di bawah ini untuk mengaktifkan akun Freelancer Anda.
+    '''Secara otomatis, semua akun Klikjob adalah akun Pembeli. Jika Anda sudah menjadi Pembeli dan ingin menjadi Freelancer, ikuti langkah-langkah di bawah ini untuk mengaktifkan akun Freelancer Anda.
 
 Mengaktifkan akun Freelancer Anda :
 
@@ -419,7 +419,7 @@ Ingat: Profil Freelancer Anda akan lebih baik jika informasi yang Anda cantumkan
 
 5. Pilih metode verifikasi antara email atau nomor telepon, lalu klik Kirim.
 
-6. Salin Nomor OTP dari Clickjob yang dikirim ke email atau nomor telepon Anda ke Kolom Aktivasi OTP, lalu klik Kirim.
+6. Salin Nomor OTP dari Klikjob yang dikirim ke email atau nomor telepon Anda ke Kolom Aktivasi OTP, lalu klik Kirim.
 
 7. Langkah 2 dari pendaftaran Freelancer akan ditampilkan di halaman Anda ; lengkapi semua bidang yang diperlukan (seperti yang ditandai dengan tanda bintang). Pastikan Anda mengisi kolom dengan memberikan detail yang benar dan tepat tentang pendidikan, riwayat pekerjaan, dan bakat Anda.
 
@@ -428,11 +428,11 @@ Ingat : Profil Freelancer Anda akan lebih baik jika informasi yang Anda cantumka
 8. Setelah mengisi semua kolom yang wajib diisi, klik Kirim.''';
 
 const menjadiContentEN =
-    '''By default, all Clickjob accounts are buyer accounts. If you are already a buyer and want to become a Freelancer, follow the steps below to activate your Freelancer account. 
+    '''By default, all Klikjob accounts are buyer accounts. If you are already a buyer and want to become a Freelancer, follow the steps below to activate your Freelancer account. 
 
 Activating your Freelancer account :
 
-1.   Change the toggle on the Clickjob homepage from Buyer to Freelancer.
+1.   Change the toggle on the Klikjob homepage from Buyer to Freelancer.
 
 2.   Select a worker category, between Inside Worker or Field Worker
 
@@ -448,7 +448,7 @@ Remember: Your Freelancer profile will be better if the information you submit i
 
 5.   Select your verification method between email or phone number, then click Submit.
 
-6.   Copy the OTP to the OTP Activation Field from the OTP Number Clickjob sent to your email or phone number, and then click Submit.
+6.   Copy the OTP to the OTP Activation Field from the OTP Number Klikjob sent to your email or phone number, and then click Submit.
 
 7.   Step 2 of the freelancer application will display on your page; complete all the required fields (as marked with an asterisk). Make sure you complete your onboarding by providing only true and precise details about your education, employment history, and talents.
 
@@ -460,13 +460,13 @@ const bijak = 'Kebijakan PAW';
 const bijakEN = 'PPAW policies';
 
 const bijakContent =
-    '''Layanan yang Anda berikan dan promosikan di Clickjob disebut sebagai PAW (Personal Ability Widget). PAW Anda adalah kesempatan untuk menunjukkan kepada calon Pembeli kemampuan Anda dan memberi mereka informasi apa pun yang mereka inginkan sebelum melakukan pemesanan.
+    '''Layanan yang Anda berikan dan promosikan di Klikjob disebut sebagai PAW (Personal Ability Widget). PAW Anda adalah kesempatan untuk menunjukkan kepada calon Pembeli kemampuan Anda dan memberi mereka informasi apa pun yang mereka inginkan sebelum melakukan pemesanan.
 
  
 
 Membuat PAW
 
-Ketika Anda pertama kali menjadi Freelancer Clickjob, kami menyarankan Anda mengembangkan hanya satu PAW dan menghabiskan waktu dan usaha Anda pada satu layanan itu. Ikuti prinsip-prinsip di bawah ini untuk membuat PAW Anda menonjol, dan kunjungi Membuat PAW dan Memaksimalkan Gambar PAW Anda untuk ide dan teknik yang lebih berguna. Setelah PAW pertama Anda menerima umpan balik Pembeli yang hebat dan beberapa pembelian, Anda harus menjelajahi menghasilkan lebih banyak PAW.
+Ketika Anda pertama kali menjadi Freelancer Klikjob, kami menyarankan Anda mengembangkan hanya satu PAW dan menghabiskan waktu dan usaha Anda pada satu layanan itu. Ikuti prinsip-prinsip di bawah ini untuk membuat PAW Anda menonjol, dan kunjungi Membuat PAW dan Memaksimalkan Gambar PAW Anda untuk ide dan teknik yang lebih berguna. Setelah PAW pertama Anda menerima umpan balik Pembeli yang hebat dan beberapa pembelian, Anda harus menjelajahi menghasilkan lebih banyak PAW.
 
 
 
@@ -480,7 +480,7 @@ Nama PAW minimal 15 karakter, maksimal 40 karakter. Jika sudah memenuhi 40 karak
 
 Jika ada kurang dari 15 karakter dalam nama PAW, labelnya terlalu pendek! berwarna Merah.
 
-Clickjob membantu Anda memulai judul Anda dengan ”Beri nama PAW Anda..” untuk mengingatkan layanan yang ingin Anda berikan.
+Klikjob membantu Anda memulai judul Anda dengan ”Beri nama PAW Anda..” untuk mengingatkan layanan yang ingin Anda berikan.
 
 Ingat: Anda ingin Pembeli Anda dapat dengan cepat mengenali layanan yang Anda tawarkan.
 
@@ -492,11 +492,11 @@ Pemilihan layanan tertentu akan membatasi pilihan kategori layanan.
 
 Pilih layanan dan kategori layanan yang paling sesuai untuk layanan yang Anda tawarkan.
 
-Jika Anda tidak yakin, telusuri pasar Clickjob untuk layanan serupa untuk melihat bagaimana Freelancer lain mengategorikan layanan mereka.
+Jika Anda tidak yakin, telusuri pasar Klikjob untuk layanan serupa untuk melihat bagaimana Freelancer lain mengategorikan layanan mereka.
 
-Clickjob juga akan merekomendasikan layanan dan kategori layanan berdasarkan judul PAW Anda.
+Klikjob juga akan merekomendasikan layanan dan kategori layanan berdasarkan judul PAW Anda.
 
-Catatan : Jika dianggap perlu, Clickjob berhak mengubah PAW Anda ke layanan atau kategori layanan yang lebih sesuai.
+Catatan : Jika dianggap perlu, Klikjob berhak mengubah PAW Anda ke layanan atau kategori layanan yang lebih sesuai.
 
 
 
@@ -598,7 +598,7 @@ Gunakan foto yang jernih, beresolusi tinggi (tidak berpiksel), dan ukuran yang s
 
 Lima foto yang menggambarkan atau entah bagaimana terhubung ke layanan PAW Anda mungkin diunggah oleh Anda.
 
-Dalam portofolio PAW Anda, Anda dapat menerapkan tanda air Clickjob untuk pratinjau pengiriman dan pesanan yang sudah selesai.
+Dalam portofolio PAW Anda, Anda dapat menerapkan tanda air Klikjob untuk pratinjau pengiriman dan pesanan yang sudah selesai.
 
 Format gambar: PNG atau JPEG
 
@@ -646,17 +646,17 @@ Jika Anda menggunakan sampel dari portofolio Anda, informasi tentang Pembeli seb
 
 Pengiriman
 
-Kerajinan tangan, barang koleksi, dan layanan lain yang ditawarkan di Clickjob adalah beberapa layanan yang dikirimkan secara fisik.
+Kerajinan tangan, barang koleksi, dan layanan lain yang ditawarkan di Klikjob adalah beberapa layanan yang dikirimkan secara fisik.
 
 Pastikan untuk mencentang kotak ini di PAW Anda jika layanan Anda melibatkan pengiriman fisik.
 
 Jika Anda tidak menjual barang berwujud, Anda tidak boleh meminta harga pengiriman kepada Pembeli dan tidak boleh memilih opsi ini di PAW Anda.''';
 const bijakContentEN =
-    '''The service you provide and promote on Clickjob is referred to as a PAW (Personal Ability Widget). Your PAW is an opportunity to demonstrate prospective buyers your ability and provide them any information they would want before making an order.
+    '''The service you provide and promote on Klikjob is referred to as a PAW (Personal Ability Widget). Your PAW is an opportunity to demonstrate prospective buyers your ability and provide them any information they would want before making an order.
 
 Creating a PAW
 
-When you first become a Clickjob Freelancer, we recommend that you develop only one PAW and spend your time and effort on that one service. Follow the principles below to make your PAW stand out, and visit Creating a PAW and Making the Most of Your PAW Image for more useful ideas and techniques. After your first PAW has received great buyer feedback and several purchases, you should explore generating more PAW. 
+When you first become a Klikjob Freelancer, we recommend that you develop only one PAW and spend your time and effort on that one service. Follow the principles below to make your PAW stand out, and visit Creating a PAW and Making the Most of Your PAW Image for more useful ideas and techniques. After your first PAW has received great buyer feedback and several purchases, you should explore generating more PAW. 
 
 PAW Guidelines
 
@@ -668,7 +668,7 @@ PAW name minimum 15 characters, maximum 40 characters. If it meets 40 characters
 
 If there are less than 15 characters in the PAW name, the label is too short! coloured Red.
 
-Clickjob helps you start your title with ”Name your PAW..” to remind the service you wish to provide.
+Klikjob helps you start your title with ”Name your PAW..” to remind the service you wish to provide.
 
 Remember: You want your Buyer to be able to quickly recognize the service you offer.
 
@@ -678,11 +678,11 @@ The selection of certain services will limit the choice of service category.
 
 Select the most appropriate service and service category for the service you offer.
 
-If you’re not sure, search Clickjob’s marketplace for similar services to see how other Freelancers have categorized their services.
+If you’re not sure, search Klikjob’s marketplace for similar services to see how other Freelancers have categorized their services.
 
-Clickjob will also recommend a service and service category based on the title of your PAW.
+Klikjob will also recommend a service and service category based on the title of your PAW.
 
-Note : If it is thought necessary, Clickjob reserves the right to change your PAW to a more appropriate service or service category.
+Note : If it is thought necessary, Klikjob reserves the right to change your PAW to a more appropriate service or service category.
 
 Metadata/Metavalues
 
@@ -774,7 +774,7 @@ Use clear, high-resolution (not pixelated), and the appropriate size photos.
 
 Five photos that depict or somehow connect to your PAW service may be uploaded by you.
 
-Within your PAW portfolio, you may apply the Clickjob watermark to both the preview of your delivery and finished orders.
+Within your PAW portfolio, you may apply the Klikjob watermark to both the preview of your delivery and finished orders.
 
 Image format : PNG or JPEG
 
@@ -810,7 +810,7 @@ If you are utilizing a sample from your portfolio, the information about former 
 
 Shipping
 
-Crafts, collectibles, and other services offered on Clickjob are some of the services that are physically delivered.
+Crafts, collectibles, and other services offered on Klikjob are some of the services that are physically delivered.
 
 Please be sure to check this box in your PAW if your service involves physical shipment.
 
@@ -820,11 +820,11 @@ const reject = 'Mengapa saya gagal saat verifikasi?';
 const rejectEN = 'When to start working on an order?';
 
 const rejectContent =
-    '''Di Clickjob, kami tidak pernah berhenti berusaha menjaga keamanan semua orang di komunitas kami. Inilah sebabnya mengapa kami biasanya meminta Freelancer untuk menunjukkan dokumen identitas resmi yang dikeluarkan pemerintah sebagai bukti identitas (ID).
+    '''Di Klikjob, kami tidak pernah berhenti berusaha menjaga keamanan semua orang di komunitas kami. Inilah sebabnya mengapa kami biasanya meminta Freelancer untuk menunjukkan dokumen identitas resmi yang dikeluarkan pemerintah sebagai bukti identitas (ID).
 
 
 
-Untuk beberapa kasus, menyelesaikan prosedur ini diperlukan sebelum Anda dapat mengiklankan layanan Anda di Clickjob. Anda dapat menerima lencana "Terverifikasi" untuk profil Freelancer Anda setelah menyelesaikan proses ini.
+Untuk beberapa kasus, menyelesaikan prosedur ini diperlukan sebelum Anda dapat mengiklankan layanan Anda di Klikjob. Anda dapat menerima lencana "Terverifikasi" untuk profil Freelancer Anda setelah menyelesaikan proses ini.
 
  
 
@@ -860,9 +860,9 @@ Harap diperhatikan : Untuk meningkatkan kemungkinan bahwa gambar akan diterima, 
 
 Hindari mengambil gambar salinan pindaian identitas Anda atau diri Anda sendiri karena tidak dapat divalidasi.''';
 const rejectContentEN =
-    '''At Clickjob, we never stop trying to keep everyone in our community safe. This is why we commonly request that Freelancers present a valid government-issued identity document as proof of their identity (ID).
+    '''At Klikjob, we never stop trying to keep everyone in our community safe. This is why we commonly request that Freelancers present a valid government-issued identity document as proof of their identity (ID).
 
-For some instances, finishing this procedure is required before you may advertise your services on Clickjob. You could receive a "Verified" badge for your Freelancer profile after completing this process.
+For some instances, finishing this procedure is required before you may advertise your services on Klikjob. You could receive a "Verified" badge for your Freelancer profile after completing this process.
 
 An image of the user's ID card with the following requirements is included in the ID card requirement :
 
@@ -900,7 +900,7 @@ const mulai = 'Kapan saya bisa memulai mengerjakan pesanan?';
 const mulaiEN = 'When i earn my money?';
 
 const mulaiContent =
-    '''Pembeli membayar Clickjob ketika mereka memesan. Ketika pesanan terpenuhi, 90% dari uang dialokasikan ke Saldo Clickjob Anda. Setelah layanan selesai dan diterima oleh Pembeli, Freelancer dapat menarik diri kapan saja.
+    '''Pembeli membayar Klikjob ketika mereka memesan. Ketika pesanan terpenuhi, 90% dari uang dialokasikan ke Saldo Klikjob Anda. Setelah layanan selesai dan diterima oleh Pembeli, Freelancer dapat menarik diri kapan saja.
 
 Ingat : Setiap metode penarikan tergantung pada ketersediaannya berdasarkan negara Freelancer.
 
@@ -923,7 +923,7 @@ Mengambil penghasilan Anda
 Catatan : Anda tidak akan melihat pilihan penarikan sampai Anda memiliki uang di akun Anda.''';
 
 const mulaiContentEN =
-    '''Buyers pay Clickjob when they place orders. When the order is fulfilled, 90% of the money are allocated to your Clickjob Balance. Once the service has been completed and accepted by the buyer, the freelancer may withdraw at any moment.
+    '''Buyers pay Klikjob when they place orders. When the order is fulfilled, 90% of the money are allocated to your Klikjob Balance. Once the service has been completed and accepted by the buyer, the freelancer may withdraw at any moment.
 
 Remember : Every withdrawal method is dependent on its availability based on the nation of the freelancer..
 
@@ -949,7 +949,7 @@ const rankingContent =
 
 
 
-Performa bulanan Anda menentukan peringkat Freelancer Anda. Anda akan mendapatkan posisi tingkat atas di Clickjob sebagai hasil dari layanan terbaik Anda, kebahagiaan Pembeli yang luar biasa, dan pengiriman tepat waktu yang konsisten, seperti yang telah ditunjukkan. Ini akan meningkatkan lalu lintas dan volume pesanan Anda.
+Performa bulanan Anda menentukan peringkat Freelancer Anda. Anda akan mendapatkan posisi tingkat atas di Klikjob sebagai hasil dari layanan terbaik Anda, kebahagiaan Pembeli yang luar biasa, dan pengiriman tepat waktu yang konsisten, seperti yang telah ditunjukkan. Ini akan meningkatkan lalu lintas dan volume pesanan Anda.
 
 
 
@@ -969,11 +969,11 @@ Persyaratan
 
 Rookie 
 
-Di sinilah semuanya dimulai. Anda langsung diberi peringkat sebagai Rookie setelah menyelesaikan formulir tahap 1 pendaftaran Freelancer Clickjob.
+Di sinilah semuanya dimulai. Anda langsung diberi peringkat sebagai Rookie setelah menyelesaikan formulir tahap 1 pendaftaran Freelancer Klikjob.
 
 Verified
 
-Anda harus memvalidasi identitas dan portofolio Anda sebelum Anda dapat mulai berjualan di Clickjob sehingga kami dapat yakin bahwa Anda adalah pendaftar dengan keterampilan yang nyata.
+Anda harus memvalidasi identitas dan portofolio Anda sebelum Anda dapat mulai berjualan di Klikjob sehingga kami dapat yakin bahwa Anda adalah pendaftar dengan keterampilan yang nyata.
 
 Pro
 
@@ -1121,7 +1121,7 @@ Keuntungan mencapai peringkat ini adalah :
 
 - Buat penawaran khusus
 
-Istilah yang kami gunakan di Clickjob adalah :
+Istilah yang kami gunakan di Klikjob adalah :
 
  
 
@@ -1136,13 +1136,13 @@ Istilah yang kami gunakan di Clickjob adalah :
 
 
 MANAJEMEN PEMESANAN
-Apakah platform Clickjob aman?
+Apakah platform Klikjob aman?
 
 Keamanan dan Kepercayaan Anda adalah Prioritas Utama Kami!
 
 
 
-Setiap karyawan yang terdaftar di Clickjob diverifikasi secara menyeluruh oleh staf kami yang berpengetahuan. Kami menjamin reputasi karyawan kami di pasar. Anda dipersilakan untuk membeli dan menjual kapan saja di platform Clickjob. Untuk melindungi transaksi dan data Anda, platform kami menggunakan metode anti-penipuan dan keamanan data berteknologi tinggi yang mutakhir.
+Setiap karyawan yang terdaftar di Klikjob diverifikasi secara menyeluruh oleh staf kami yang berpengetahuan. Kami menjamin reputasi karyawan kami di pasar. Anda dipersilakan untuk membeli dan menjual kapan saja di platform Klikjob. Untuk melindungi transaksi dan data Anda, platform kami menggunakan metode anti-penipuan dan keamanan data berteknologi tinggi yang mutakhir.
 
 Data Pribadi yang Aman
 
@@ -1154,13 +1154,13 @@ Kami menangani setiap transaksi yang terjadi di platform kami menggunakan metode
 
 Sistem untuk Obrolan Aman
 
-Bertukar file dengan aman, bernegosiasi, dan berinteraksi dengan karyawan mana pun di Clickjob.
+Bertukar file dengan aman, bernegosiasi, dan berinteraksi dengan karyawan mana pun di Klikjob.
 
 Kami siap membantu Anda dengan masalah apa pun. Tim dukungan pelanggan kami yang membantu tersedia untuk Anda sepanjang waktu.''';
 const rankingContentEN =
     '''Using the Freelancer ranks, you may turn your abilities and talents into a source of money. You can move up to a new (and higher) rank position if you advertise your PAW, make sure your buyers are happy, deliver on time, maintain high-quality services, and get positive reviews. 
 
-Your monthly performance determines your Freelancer rank. You will get a top-level position on Clickjob as a result of your excellent service, great buyer happiness, and consistent on-time delivery, as was already indicated. This will increase your traffic and order volume.
+Your monthly performance determines your Freelancer rank. You will get a top-level position on Klikjob as a result of your excellent service, great buyer happiness, and consistent on-time delivery, as was already indicated. This will increase your traffic and order volume.
 
 1.   Rookie
 
@@ -1178,11 +1178,11 @@ Requirements
 
 Rookie 
 
-This is where it all starts. You are instantly ranked as a Rookie after completing stage 1 of the Clickjob Freelancer registration form.
+This is where it all starts. You are instantly ranked as a Rookie after completing stage 1 of the Klikjob Freelancer registration form.
 
 Verified
 
-You must validate your identity and portfolio before you can start selling on Clickjob so that we can be sure you are a real person with real skills.
+You must validate your identity and portfolio before you can start selling on Klikjob so that we can be sure you are a real person with real skills.
 
 
 
@@ -1336,7 +1336,7 @@ The perks of reaching this level is :
 
 
 
- The slang we use at Clickjob is:
+ The slang we use at Klikjob is:
 
 "Custom offer" - You may give buyers with specified specifications specialized offers.
 
@@ -1349,11 +1349,11 @@ The perks of reaching this level is :
 const order = 'Manajemen Pemesanan';
 const orderEN = 'Order Management';
 
-const aman = 'Apakah platform Clickjob aman?';
-const amanEN = 'Is Clickjob platform safe?';
+const aman = 'Apakah platform Klikjob aman?';
+const amanEN = 'Is Klikjob platform safe?';
 
 const amanContent =
-    '''Setiap karyawan yang terdaftar di Clickjob diverifikasi secara menyeluruh oleh staf kami yang berpengetahuan. Kami menjamin reputasi karyawan kami di pasar. Anda dipersilakan untuk membeli dan menjual kapan saja di platform Clickjob. Untuk melindungi transaksi dan data Anda, platform kami menggunakan metode anti-penipuan dan keamanan data berteknologi tinggi yang mutakhir.
+    '''Setiap karyawan yang terdaftar di Klikjob diverifikasi secara menyeluruh oleh staf kami yang berpengetahuan. Kami menjamin reputasi karyawan kami di pasar. Anda dipersilakan untuk membeli dan menjual kapan saja di platform Klikjob. Untuk melindungi transaksi dan data Anda, platform kami menggunakan metode anti-penipuan dan keamanan data berteknologi tinggi yang mutakhir.
 
 Data Pribadi yang Aman
 
@@ -1365,13 +1365,13 @@ Kami menangani setiap transaksi yang terjadi di platform kami menggunakan metode
 
 Sistem untuk Obrolan Aman
 
-Bertukar file dengan aman, bernegosiasi, dan berinteraksi dengan karyawan mana pun di Clickjob.
+Bertukar file dengan aman, bernegosiasi, dan berinteraksi dengan karyawan mana pun di Klikjob.
 
 Kami siap membantu Anda dengan masalah apa pun. Tim dukungan pelanggan kami yang membantu tersedia untuk Anda sepanjang waktu.''';
 
 const amanContentEN = '''Your Safety and Trust are Our Top Priorities!
 
-Every employee registered with Clickjob is thoroughly verified by our knowledgeable staff. We guarantee the reputations of our employees in the marketplace. You are welcome to purchase and sell at any moment on the Clickjob platform. To protect your transaction and data, our platform uses cutting-edge high tech anti-fraud and data security methods. 
+Every employee registered with Klikjob is thoroughly verified by our knowledgeable staff. We guarantee the reputations of our employees in the marketplace. You are welcome to purchase and sell at any moment on the Klikjob platform. To protect your transaction and data, our platform uses cutting-edge high tech anti-fraud and data security methods. 
 
 Secure Personal Data
 
@@ -1383,7 +1383,7 @@ We handle every transaction that occurs on our platform using any sort of paymen
 
 System for Secure Chat
 
-Safely exchange files, negotiate, and interact with any employee on Clickjob.
+Safely exchange files, negotiate, and interact with any employee on Klikjob.
 
 We are available to assist you with any problems. Our helpful customer support team is available to you around-the-clock.''';
 
@@ -1460,7 +1460,7 @@ Kode promo tidak akan diterapkan pada pembelian jika hal ini tidak dilakukan. Ji
 
 
 
-Dalam Ketentuan Pembayaran Clickjob, Anda dapat menemukan informasi tambahan mengenai kode promosi, syarat, dan ketentuan.
+Dalam Ketentuan Pembayaran Klikjob, Anda dapat menemukan informasi tambahan mengenai kode promosi, syarat, dan ketentuan.
 
 
 
@@ -1501,7 +1501,7 @@ The promo code won't be applied to the purchase if this isn't done. If you tried
 
 ·    Promo codes are only valid when a buyer uses an external payment source..  
 
-In Clickjob's Payment Terms, you may find additional information regarding promotional codes, terms, and conditions.
+In Klikjob's Payment Terms, you may find additional information regarding promotional codes, terms, and conditions.
 
 You're getting a "Invalid" error for a promo code.
 
@@ -1856,7 +1856,7 @@ Berikut langkah-langkah memberikan rating & review :
 
 
 
-Bagaimana Ulasan tentang Clickjob Bekerja
+Bagaimana Ulasan tentang Klikjob Bekerja
 
 Pembeli memiliki waktu sepuluh hari setelah pesanan diakui sebagai selesai untuk mengirimkan ulasan. Setelah dikirimkan, Anda akan diberi tahu dan diberi kesempatan untuk menulis umpan balik tentang pengalaman Anda berurusan dengan Pembeli. Anda tidak dapat melihat ulasan Pembeli saat ini. Semua ulasan menjadi publik setelah Freelancer dan Pembeli selesai menulisnya, atau setelah 10 hari berlalu.
 
@@ -1880,7 +1880,7 @@ Ulasan negatif
 
 Menerima evaluasi yang buruk mungkin mengecilkan hati, tetapi juga bisa menjadi momen pengajaran. Dengan mempertimbangkan umpan balik negatif, Anda dapat meningkatkan pengalaman membeli Pembeli secara keseluruhan. Jangan lupa untuk menggunakan apa yang telah Anda pelajari dalam pembelian berikutnya.
 
-Ingat : Ulasan adalah penilaian subjektif berdasarkan preferensi individu, dan Anda tidak dapat menyenangkan setiap Pembeli sepanjang waktu. Ulasan tidak dapat dihapus kecuali jika secara tegas melanggar Persyaratan Layanan Clickjob.
+Ingat : Ulasan adalah penilaian subjektif berdasarkan preferensi individu, dan Anda tidak dapat menyenangkan setiap Pembeli sepanjang waktu. Ulasan tidak dapat dihapus kecuali jika secara tegas melanggar Persyaratan Layanan Klikjob.
 
 Mengelola ulasan negatif
 
@@ -1914,7 +1914,7 @@ Jangan lupa
 
 o Hanya ulasan tentang Pembeli yang muncul di profil Pembeli.
 
-o Clickjob tidak dapat mengubah atau menghapus ulasan setelah dipublikasikan kecuali jika melanggar Persyaratan Layanan.
+o Klikjob tidak dapat mengubah atau menghapus ulasan setelah dipublikasikan kecuali jika melanggar Persyaratan Layanan.
 
 o Bahkan jika pesanan dibatalkan, ulasan tidak dihapus.''';
 
@@ -1933,7 +1933,7 @@ Here’s the steps to give a rating & reviews :
 
 5.    Then you can give ratings & review to send feedback
 
-How Reviews on Clickjob Work
+How Reviews on Klikjob Work
 
 A buyer has ten days after an order has been acknowledged as finished to submit a review. Once submitted, you will be notified and given the chance to write feedback about your experience dealing with the buyer. You can't see a buyer review right now. All reviews become public once the Freelancer and the Buyer have finished writing them, or after 10 days have elapsed. 
 
@@ -1959,7 +1959,7 @@ Negative reviews
 
 Receiving a bad evaluation might be discouraging, but it can also be a teaching moment. By taking negative feedback into account, you may improve your buyers overall buying experiences. Don't forget to use what you've learnt in future purchases.
 
-Remember: Reviews are subjective judgments based on individual preferences, and you can't please every buyer all of the time. A review cannot be deleted unless it expressly violates Clickjob's Terms of Service.
+Remember: Reviews are subjective judgments based on individual preferences, and you can't please every buyer all of the time. A review cannot be deleted unless it expressly violates Klikjob's Terms of Service.
 
 Managing negative reviews
 
@@ -1997,6 +1997,6 @@ Don't forget
 
 ·    Only reviews regarding a buyer appear on the buyer's profile.
 
-·    Clickjob cannot modify or remove reviews once they have been made public unless they break the Terms of Service. 
+·    Klikjob cannot modify or remove reviews once they have been made public unless they break the Terms of Service. 
 
 ·    Even if an order is canceled, reviews are not deleted.''';
