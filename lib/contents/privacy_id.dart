@@ -1,3 +1,5 @@
+import 'package:taccb/privacy.dart';
+
 String privasi = '''
 # **Informasi Umum**
 
@@ -57,7 +59,7 @@ String privasi = '''
 
 3. Menyesuaikan dan mempersonalisasi layanan kami dan meningkatkan pengalaman Anda (termasuk dengan membuat sugesti terkait PAW, memberi peringkat pada hasil pencarian, dll.);
 
-4. Memastikan integritas platform, mencegah penipuan, dan memelihara platform dan layanan yang aman dan terlindungi. Kami melakukan analitik perilaku tertentu untuk mencapai tujuan yang disebutkan dan dalam kasus tertentu, jika kami mendeteksi aktivitas yang menurut kami menimbulkan risiko bagi pasar dalam Klikjob, User lain, komunitas kami, atau pihak ketiga, proses (yang berjalan) otomatis dapat memperketat atau membatasi kemampuan Anda untuk menggunakan Klikjob. Jika Anda ingin menentang keputusan tersebut, silakan hubungi kami di <support@klikjob.com>;
+4. Memastikan integritas platform, mencegah penipuan, dan memelihara platform dan layanan yang aman dan terlindungi. Kami melakukan analitik perilaku tertentu untuk mencapai tujuan yang disebutkan dan dalam kasus tertentu, jika kami mendeteksi aktivitas yang menurut kami menimbulkan risiko bagi pasar dalam Klikjob, User lain, komunitas kami, atau pihak ketiga, proses (yang berjalan) otomatis dapat memperketat atau membatasi kemampuan Anda untuk menggunakan Klikjob. Jika Anda ingin menentang keputusan tersebut, silakan hubungi kami di <${PrivacyController.supportEmail}>;
 
 5. Menghubungi Anda, sebagaimana yang diminta oleh Anda atau sebagaimana yang disetujui oleh Anda atau diizinkan menurut Kebijakan ini;
 
@@ -231,7 +233,7 @@ String privasi = '''
 
     c. Memberikan dokumentasi atau bukti lain yang menunjukkan bahwa mereka berwenang untuk bertindak atas nama Anda. Kami juga dapat meminta Anda untuk memverifikasi identitas Anda secara langsung kepada kami, dan mengkonfirmasi secara langsung kepada kami bahwa Anda memberikan izin kepada agen resmi untuk mengajukan permintaan.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Untuk membuat permintaan seperti itu, dengan hormat kami meminta Anda untuk menghubungi tim kami melalui <support@klikjob.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Untuk membuat permintaan seperti itu, dengan hormat kami meminta Anda untuk menghubungi tim kami melalui <${PrivacyController.supportEmail}>.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Kami akan memverifikasi permintaan Anda menggunakan informasi yang terkait dengan akun Anda, termasuk alamat surel. Identifikasi pemerintah juga mungkin diperlukan.
 
@@ -251,7 +253,7 @@ String privasi = '''
 
 1. Dasar Kontrak
 
-&nbsp;&nbsp;&nbsp;&nbsp; Penarikan persetujuan berarti pemutusan kontrak, seperti pemutusan akun Buyer atau akun Freelancer. Hal ini dapat dilakukan dengan menghubungi Pusat Bantuan atau <support@klikjob.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Penarikan persetujuan berarti pemutusan kontrak, seperti pemutusan akun Buyer atau akun Freelancer. Hal ini dapat dilakukan dengan menghubungi Pusat Bantuan atau <${PrivacyController.supportEmail}>.
 
 2. Dasar Persetujuan
 
@@ -281,7 +283,7 @@ String privasi = '''
 
 &nbsp;&nbsp;&nbsp;&nbsp; Kami dapat mengumpulkan, menggunakan, atau mengungkapkan Data Pribadi Anda dengan persetujuan dari orang tua atau wali Anda yang sah atau dengan tindakan lain jika diwajibkan oleh hukum.
 
-&nbsp;&nbsp;&nbsp;&nbsp; Jika kami mengetahui bahwa kami telah mengumpulkan atau menerima Data Pribadi dari seorang anak di bawah umur 17 (tujuh belas) tahun tanpa persetujuan dari orang tua atau wali Anda yang sah dan/atau anak di bawah 13 (tiga belas) tahun, kami akan menghapus Data Pribadi tersebut. Jika Anda yakin kami mungkin memiliki informasi apa pun dari atau tentang anak di bawah 13 (tiga belas) tahun dan/atau anak di bawah umur 17 (tujuh belas) tahun tanpa izin, silakan hubungi kami di <support@klikjob.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Jika kami mengetahui bahwa kami telah mengumpulkan atau menerima Data Pribadi dari seorang anak di bawah umur 17 (tujuh belas) tahun tanpa persetujuan dari orang tua atau wali Anda yang sah dan/atau anak di bawah 13 (tiga belas) tahun, kami akan menghapus Data Pribadi tersebut. Jika Anda yakin kami mungkin memiliki informasi apa pun dari atau tentang anak di bawah 13 (tiga belas) tahun dan/atau anak di bawah umur 17 (tujuh belas) tahun tanpa izin, silakan hubungi kami di <${PrivacyController.supportEmail}>.
 
 # **Kuki**
 
@@ -305,6 +307,6 @@ String privasi = '''
 
 # **Kontak Kami**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Untuk menggunakan salah satu hak Anda sehubungan dengan informasi pribadi Anda, kami dengan hormat meminta Anda untuk menghubungi Pusat Bantuan. Harap sertakan semua detail yang relevan dan dengan akurat, sehingga permintaan Anda dapat ditangani dengan benar. Kami akan memproses setiap permintaan sesuai dengan hukum/undang-undang setempat yang berlaku serta kebijakan dan prosedur kami. Anda juga dapat menghubungi kami melalui <support@klikjob.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Untuk menggunakan salah satu hak Anda sehubungan dengan informasi pribadi Anda, kami dengan hormat meminta Anda untuk menghubungi Pusat Bantuan. Harap sertakan semua detail yang relevan dan dengan akurat, sehingga permintaan Anda dapat ditangani dengan benar. Kami akan memproses setiap permintaan sesuai dengan hukum/undang-undang setempat yang berlaku serta kebijakan dan prosedur kami. Anda juga dapat menghubungi kami melalui <${PrivacyController.supportEmail}>.
 
 ''';

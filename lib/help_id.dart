@@ -11,25 +11,13 @@ Harap diingat bahwa semua akun baru di Klikjob akan terdaftar sebagai akun Pembe
 
 Jika Pembeli memilih untuk mulai menyediakan layanan di Klikjob sebagai Freelancer, kedua akun menjadi berbeda satu sama lain. Anda dapat membuat akun Pembeli dan mengaktifkan akun Freelancer Anda dengan bantuan postingan ini.
 
-
-
 Anda dapat mengatur akun Pembeli, akun Freelancer, atau akun Pembeli/Freelancer di Klikjob. Di Klikjob, Anda hanya diperbolehkan memiliki satu akun Freelancer.
 
-
-
 Membuat akun Klikjob :
-
-
-
 1. Klik Daftar di situs Klikjob.
 
 2. Masukkan alamat email, nomor telepon, kata sandi, & konfirmasi kata sandi Anda.
-
-
-
-Catatan : Selain metode di atas, Anda dapat mendaftar di Klikjob menggunakan akun Google, Facebook, atau Linkedin.
-
-
+    Catatan : Selain metode di atas, Anda dapat mendaftar di Klikjob menggunakan akun Google, Facebook, atau Linkedin.
 
 3. Pilih metode verifikasi antara email atau nomor telepon, lalu klik Daftar
 
@@ -39,11 +27,7 @@ Catatan : Selain metode di atas, Anda dapat mendaftar di Klikjob menggunakan aku
 
 6. Anda akan dapat mengaktifkan akun Freelancer setelah berhasil membuat akun menggunakan metode yang disebutkan di atas.
 
-
-
 Bergabung sebagai Freelancer di Klikjob :
-
-
 
 1. Tekan tombol Pembeli yang ada di pojok kanan atas beranda untuk mengubah mode akun Pembeli menjadi Freelancer
 
@@ -78,15 +62,11 @@ If a buyer chooses to start providing services on Klikjob as a Freelancer, the t
 
 You may set up a buyer account, a freelancer account, or a buyer/freelancer account on Klikjob. On Klikjob, you are only allowed to have one Freelancer account.
 
-
-
 Creating a Klikjob account:
-
 1. Click Register on the Klikjob site. 
 
 2. Enter your email address, phone number, password, & confirm password.
-
-Note : Additionally, you may sign up for Klikjob using a Google, Facebook, or Linkedin account.
+    Note : Additionally, you may sign up for Klikjob using a Google, Facebook, or Linkedin account.
 
 3. Select your verification method between email or phone number, then click Register
 
@@ -95,8 +75,6 @@ Note : Additionally, you may sign up for Klikjob using a Google, Facebook, or Li
 5. Click the link in the link activation Klikjob sends to your email or phone number.
 
 6. You will be able to activate your Freelancer account once you have successfully created your account using the aforementioned methods.
-
-
 
 Join Klikjob as a Freelancer :
 
@@ -132,17 +110,10 @@ const findContent =
 
 Klikjob menawarkan berbagai layanan, mencoba menemukan yang paling sesuai dengan kebutuhan Anda bisa jadi sulit pada awalnya. Namun, dengan menggunakan mesin pencari Klikjob, Anda dapat mempersempit pencarian untuk menemukan layanan yang Anda butuhkan.
 
-
-
 Mencari layanan
-
 Ketik layanan yang ingin Anda cari pada kotak pencarian di bagian spanduk halaman dan tekan "Cari". Layanan ini dapat digunakan meskipun Anda belum mendaftar akun. Pelengkap kalimat otomatis di kotak pencarian menyarankan kata kunci dan kategori pencarian paling populer yang akan aktif saat Anda mengetik. Hasil pencarian menyarankan "desainer logo" atau "Andrew" sebagai ahli logo jika Anda mengetik "logo".
 
-
-
 Setelah menampilkan halaman hasil pencarian, beberapa filter akan tampil di sisi kiri layar. Kategori atau subkategori PAW memiliki filter yang berbeda, tetapi Anda selalu dapat menentukan pilihan anggaran, jadwal pengiriman, dan informasi khusus Freelancer lainnya untuk memfokuskan pencarian Anda. Temukan Freelancer yang sempurna untuk pekerjaan yang Anda inginkan!
-
-
 
 Filter Freelancer Berdasarkan :
 
@@ -161,6 +132,7 @@ Freelancer di Klikjob dapat membuat daftar bahasa yang mereka gunakan di seluruh
 Rating
 
 Filter untuk mencari Freelancer berdasarkan rating, mulai dari bintang satu hingga bintang lima.
+
 
 Filter PAW Berdasarkan :
 
@@ -199,18 +171,16 @@ Filter untuk mencari PAW berdasarkan peringkat, mulai dari PAW baru hingga PAW p
 Jadwal Pengiriman
 
 Filter untuk mencari PAW berdasarkan jadwal pengiriman.''';
+
 const findContentEN =
     '''Disclaimer: According to Klikjob's Terms of Service, all users must be at least 17 years old and of legal age to enter into legally binding agreements. Users under the age of 17 are only allowed to access the site using an account that belongs to their parent or legal guardian with their permission.
 
 Klikjob offers a lot of services, trying to find the perfect one for what you need can seem difficult at first. But, by using Klikjob's search engine, you can narrow down your search to find the exact service you need.
 
 Searching for a service
-
 Enter the service you're searching for in the search box at the top of the site and hit "Search." The service may be entered in the homepage banner even if you are only viewing Klikjob and are not logged in. Then, click Search. The search bar's autocomplete feature suggests the most popular search keywords as well as the categories where you may discover them as you type. Ex. It will propose "logo design" or "Andrew" as a logo specialist if you type "logo”.
 
 After being sent to your results page, a few filters will be shown on the left side of the screen. The PAW category or subcategory may have different filters, but you may always specify your chosen budget, delivery schedule, and other particular Freelancer information to focus your search. Find the ideal Freelancer for the task you want by going onward! 
-
-
 
 Filter Freelancers by :
 
@@ -229,7 +199,6 @@ Freelancers on Klikjob can list the languages they speak and are situated all ov
 Rating
 
 Filter to find a Freelancer based on their ratings from one star to five star.
-
 
 
 Filter PAW by :

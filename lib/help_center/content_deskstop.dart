@@ -1,14 +1,17 @@
 import 'package:anchor_scroll_controller/anchor_scroll_controller.dart';
 import 'package:expandable/expandable.dart';
 import 'package:flutter/material.dart';
+import 'package:taccb/remote_config.dart';
 
 class ContentDesktop extends StatefulWidget {
   const ContentDesktop({
     super.key,
     required this.content,
+    required this.headerText,
   });
 
   final Map<String, Map<String, String>> content;
+  final String headerText;
 
   @override
   State<ContentDesktop> createState() => _ContentDesktopState();
@@ -38,7 +41,7 @@ class _ContentDesktopState extends State<ContentDesktop> {
                       widget.content.keys.elementAt(i),
                       style: const TextStyle(
                         fontWeight: FontWeight.bold,
-                        fontSize: 20,
+                        fontSize: 24,
                       ),
                     ),
                     collapsed: const SizedBox.shrink(),
@@ -97,7 +100,7 @@ class _ContentDesktopState extends State<ContentDesktop> {
           ),
         ),
         Expanded(
-          flex: 2,
+          flex: 3,
           child: ListView(
             controller: _scrollController,
             children: [
@@ -108,12 +111,45 @@ class _ContentDesktopState extends State<ContentDesktop> {
                     children: [
                       SizedBox(
                         width: MediaQuery.of(context).size.width,
+                        child: const Text(
+                          'KLIKJOB HELP CENTER',
+                          textAlign: TextAlign.left,
+                          style: TextStyle(
+                            fontWeight: FontWeight.bold,
+                            fontSize: 40,
+                          ),
+                        ),
+                      ),
+                      Container(
+                        margin: const EdgeInsets.only(bottom: 16),
+                        width: MediaQuery.of(context).size.width,
+                        child: Text.rich(
+                          TextSpan(
+                            text: widget.headerText,
+                            style: const TextStyle(
+                              fontWeight: FontWeight.w500,
+                              fontSize: 16,
+                            ),
+                            children: <TextSpan>[
+                              TextSpan(
+                                text: ' <${RemoteConfig.supportEmail ?? "-"}>',
+                                style: const TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                            ],
+                          ),
+                          textAlign: TextAlign.left,
+                        ),
+                      ),
+                      SizedBox(
+                        width: MediaQuery.of(context).size.width,
                         child: Text(
                           widget.content.keys.elementAt(i),
                           textAlign: TextAlign.left,
                           style: const TextStyle(
                             fontWeight: FontWeight.bold,
-                            fontSize: 25,
+                            fontSize: 36,
                           ),
                         ),
                       ),
@@ -140,7 +176,7 @@ class _ContentDesktopState extends State<ContentDesktop> {
                                   textAlign: TextAlign.start,
                                   style: const TextStyle(
                                     color: Colors.black87,
-                                    fontSize: 18,
+                                    fontSize: 32,
                                   ),
                                 ),
                               ),
@@ -149,6 +185,9 @@ class _ContentDesktopState extends State<ContentDesktop> {
                                     .elementAt(i)
                                     .values
                                     .elementAt(j),
+                                style: const TextStyle(
+                                  fontSize: 18,
+                                ),
                               )
                             ],
                           ),

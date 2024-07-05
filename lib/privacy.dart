@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:get/get.dart';
@@ -7,6 +9,7 @@ import 'package:taccb/contents/privacy_en.dart';
 import 'package:taccb/contents/privacy_id.dart';
 import 'package:taccb/contents/top_en.dart';
 import 'package:taccb/contents/top_id.dart';
+import 'package:taccb/remote_config.dart';
 import 'package:taccb/theme.dart';
 
 class Privacy extends GetResponsiveView<PrivacyController> {
@@ -261,6 +264,17 @@ class PrivacyController extends GetxController
   final RxBool isEN = true.obs;
   final GlobalKey<ScaffoldState> scaffoldKey = GlobalKey<ScaffoldState>();
   late final TabController tc = TabController(length: 6, vsync: this);
+
+  static late final String supportEmail;
+
+  @override
+  void onInit() {
+    supportEmail = RemoteConfig.supportEmail ?? "-";
+
+    log('isi support email :: $supportEmail');
+
+    super.onInit();
+  }
 
   @override
   void dispose() {

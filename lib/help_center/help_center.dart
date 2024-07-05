@@ -122,12 +122,22 @@ class _HelpCenterState extends State<HelpCenter> {
               sizingInformation.deviceScreenType == DeviceScreenType.tablet) {
             return Padding(
               padding: const EdgeInsets.all(8.0),
-              child: ContentDesktop(content: isEN ? contentEN : contentID),
+              child: ContentDesktop(
+                content: isEN ? contentEN : contentID,
+                headerText: isEN
+                    ? 'For any questions related to Klikjob, please refer to our FAQ. For further assistance, contact us at'
+                    : 'Anda dapat menemukan semua pertanyaan terkait Klikjob di sini. Untuk informasi lebih lanjut, silakan hubungi',
+              ),
             );
           }
           return Padding(
             padding: const EdgeInsets.all(8.0),
-            child: ContentMobile(content: isEN ? contentEN : contentID),
+            child: ContentMobile(
+              content: isEN ? contentEN : contentID,
+              headerText: isEN
+                  ? 'For any questions related to Klikjob, please refer to our FAQ. For further assistance, contact us at'
+                  : 'Anda dapat menemukan semua pertanyaan terkait Klikjob di sini. Untuk informasi lebih lanjut, silakan hubungi',
+            ),
           );
         },
       ),

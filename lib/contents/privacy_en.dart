@@ -1,3 +1,5 @@
+import 'package:taccb/privacy.dart';
+
 String privasiEN = '''
 # **General Information**
 
@@ -51,7 +53,7 @@ String privasiEN = '''
 
 3. Customize and personalize our service and improve your experience (including by making suggestions regarding PAW, ranking search results, etc.);
 
-4. Maintain platform integrity, prevent fraud, and keep the platform and service safe and secure. We use behavioural analytics to fulfil our stated aims, and in some situations, if we notice activity that we believe constitutes a risk to the market, other Users, our community, or third parties, automated systems may tighten or limit your ability to use Klikjob. Please contact us at <support@klikjob.com> if you desire to appeal the decision.
+4. Maintain platform integrity, prevent fraud, and keep the platform and service safe and secure. We use behavioural analytics to fulfil our stated aims, and in some situations, if we notice activity that we believe constitutes a risk to the market, other Users, our community, or third parties, automated systems may tighten or limit your ability to use Klikjob. Please contact us at <${PrivacyController.supportEmail}> if you desire to appeal the decision.
 
 5. Contacting you as you request, as you agree, or as permitted by this Policy;
 
@@ -221,7 +223,7 @@ String privasiEN = '''
 
     c. Provide documentation or other proof indicating that they are authorized to act on your behalf. We may also require you to explicitly authenticate your identification and directly confirm with us that you provided the authorized agent permission to submit the request.
 
-&nbsp;&nbsp;&nbsp;&nbsp; To make such a request, we kindly ask you to contact our team via <support@klikjob.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; To make such a request, we kindly ask you to contact our team via <${PrivacyController.supportEmail}>.
 
 &nbsp;&nbsp;&nbsp;&nbsp; We will verify your request using the information associated with your account, including your email address. Government identification may also be required.
 
@@ -240,7 +242,7 @@ String privasiEN = '''
 &nbsp;&nbsp;&nbsp;&nbsp; These rights are further classified into two types based on a legal basis, including:
 
 1. Contract Basis
-&nbsp;&nbsp;&nbsp;&nbsp; Withdrawal of consent means termination of the contract, such as termination of the Buyer's account or the Freelancer's account. This can be done by contacting the Help Center or <support@klikjob.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; Withdrawal of consent means termination of the contract, such as termination of the Buyer's account or the Freelancer's account. This can be done by contacting the Help Center or <${PrivacyController.supportEmail}>.
 
 2. Consent Basis
 &nbsp;&nbsp;&nbsp;&nbsp; You can change your consent at any time by using the data usage management option.
@@ -267,7 +269,7 @@ String privasiEN = '''
 
 &nbsp;&nbsp;&nbsp;&nbsp; We may collect, use, or disclose your Personal Data with the consent of your parent or legal guardian, or through other lawful means.
 
-&nbsp;&nbsp;&nbsp;&nbsp; If we discover that we obtained or received Personal Data from a child under the age of 17 (seventeen) without the approval of your parents or legal guardians, and/or a child under the age of 13 (thirteen), we will destroy the Personal Data. If you believe we have information from or about a kid under the age of 13 (thirteen) years and/or a child under the age of 17 (seventeen), please contact us at <support@klikjob.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; If we discover that we obtained or received Personal Data from a child under the age of 17 (seventeen) without the approval of your parents or legal guardians, and/or a child under the age of 13 (thirteen), we will destroy the Personal Data. If you believe we have information from or about a kid under the age of 13 (thirteen) years and/or a child under the age of 17 (seventeen), please contact us at <${PrivacyController.supportEmail}>.
 
 # **Cookies**
 
@@ -291,6 +293,6 @@ String privasiEN = '''
 
 # **Contact Us**
 
-&nbsp;&nbsp;&nbsp;&nbsp; To exercise any of your rights about your personal information, please contact the Help Center. Please include all relevant details carefully so that your request can be properly handled. Each request will be processed in compliance with any local laws/regulations as well as our policies and procedures. You can also contact out to us at <support@klikjob.com>.
+&nbsp;&nbsp;&nbsp;&nbsp; To exercise any of your rights about your personal information, please contact the Help Center. Please include all relevant details carefully so that your request can be properly handled. Each request will be processed in compliance with any local laws/regulations as well as our policies and procedures. You can also contact out to us at <${PrivacyController.supportEmail}>.
 
 ''';
