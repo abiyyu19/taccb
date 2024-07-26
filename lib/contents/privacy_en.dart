@@ -3,6 +3,8 @@ import 'package:taccb/privacy.dart';
 String privasiEN = '''
 # **General Information**
 
+&nbsp;&nbsp;&nbsp;&nbsp; This Privacy Policy applies to Klikjob services (the “Platform”), which include Klikjob apps, websites, software and related services accessed via any platform or device that link to this Privacy Policy. The Platform is provided and controlled by PT. Bionic Teknologi Indonesia. (“Klikjob”, “we” or “us”).
+
 &nbsp;&nbsp;&nbsp;&nbsp; Users should carefully read and understand this Privacy Policy to understand how Klikjob utilizes their Personal Data. It should be noted that Klikjob prioritizes the security of your Personal Data. This Privacy Policy covers the procedures for collecting, processing or disclosing personal data and other rights of ownership of your Personal Data. By accessing or using www.klikjob.com, the Klikjob mobile application (Android or iOS), or other associated sites, applications, services, and goods/content, or any other website managed by Klikjob that is linked to this policy.
 
 &nbsp;&nbsp;&nbsp;&nbsp; This policy may alter from time to time; we shall also take other procedures, to the extent needed by applicable local law/statutory. You indicate that you have read, understand, and agree to this Privacy Policy by using Klikjob's services. We recommend that you check the Privacy Policy on a regular basis for any modifications or changes.
